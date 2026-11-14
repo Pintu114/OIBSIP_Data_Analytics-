@@ -1,0 +1,13 @@
+CustomerID,Name,Gender,JoinDate,Age,Spend,City
+1, Alice ,F,01/02/2024,25.0,120.5,Mathura
+2,BOB,male,2024-03-04,31.0,200,Delhi
+3,Carla,Female,15-04-2024,,N/A,Agra
+4,,M,bad-date,44.0,450,Noida
+5,Evan,Other,2024/05/01,29.0,330,Delhi
+5,Evan,Other,2024/05/01,29.0,330,Delhi
+7,Farah,f,2024-06-02,200.0,999999,Agra
+8,Gina,MALE,07-06-2024,37.0,180,Mathura
+9,Hank,,2024-08-01,42.0,250,Noida
+10,Ivy,Female,2024-09-01,26.0,310,Agra
+11,JACK,M,2024-10-01,-5.0,80,Delhi
+12,Kira,female,2024-11-01,33.0,,Mathura

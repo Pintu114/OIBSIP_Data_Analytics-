@@ -1,0 +1,1001 @@
+Review_ID,Category,Review,Sentiment
+U0001,Entertainment,Crashes often and support is poor,negative
+U0002,Entertainment,"Great app, easy to use and helpful",positive
+U0003,Finance,"Great app, easy to use and helpful",positive
+U0004,Entertainment,"Great app, easy to use and helpful",positive
+U0005,Games,"Great app, easy to use and helpful",positive
+U0006,Education,"Great app, easy to use and helpful",positive
+U0007,Education,Crashes often and support is poor,negative
+U0008,Games,Crashes often and support is poor,negative
+U0009,Finance,"The app is okay, average experience",neutral
+U0010,Tools,"The app is okay, average experience",neutral
+U0011,Lifestyle,Crashes often and support is poor,negative
+U0012,Education,"Great app, easy to use and helpful",positive
+U0013,Finance,Crashes often and support is poor,negative
+U0014,Education,"The app is okay, average experience",neutral
+U0015,Games,"Great app, easy to use and helpful",positive
+U0016,Entertainment,"Great app, easy to use and helpful",positive
+U0017,Health,"The app is okay, average experience",neutral
+U0018,Health,Crashes often and support is poor,negative
+U0019,Tools,"Great app, easy to use and helpful",positive
+U0020,Finance,Crashes often and support is poor,negative
+U0021,Tools,Crashes often and support is poor,negative
+U0022,Tools,"Great app, easy to use and helpful",positive
+U0023,Games,Crashes often and support is poor,negative
+U0024,Lifestyle,Crashes often and support is poor,negative
+U0025,Tools,Crashes often and support is poor,negative
+U0026,Tools,Crashes often and support is poor,negative
+U0027,Finance,"Great app, easy to use and helpful",positive
+U0028,Finance,"Great app, easy to use and helpful",positive
+U0029,Education,"The app is okay, average experience",neutral
+U0030,Finance,Crashes often and support is poor,negative
+U0031,Tools,"Great app, easy to use and helpful",positive
+U0032,Tools,"The app is okay, average experience",neutral
+U0033,Entertainment,"Great app, easy to use and helpful",positive
+U0034,Tools,Crashes often and support is poor,negative
+U0035,Education,"Great app, easy to use and helpful",positive
+U0036,Education,Crashes often and support is poor,negative
+U0037,Finance,Crashes often and support is poor,negative
+U0038,Tools,"Great app, easy to use and helpful",positive
+U0039,Education,Crashes often and support is poor,negative
+U0040,Health,"Great app, easy to use and helpful",positive
+U0041,Health,Crashes often and support is poor,negative
+U0042,Lifestyle,Crashes often and support is poor,negative
+U0043,Entertainment,Crashes often and support is poor,negative
+U0044,Tools,"Great app, easy to use and helpful",positive
+U0045,Education,"Great app, easy to use and helpful",positive
+U0046,Finance,"The app is okay, average experience",neutral
+U0047,Lifestyle,"Great app, easy to use and helpful",positive
+U0048,Finance,Crashes often and support is poor,negative
+U0049,Lifestyle,"Great app, easy to use and helpful",positive
+U0050,Lifestyle,Crashes often and support is poor,negative
+U0051,Entertainment,"Great app, easy to use and helpful",positive
+U0052,Lifestyle,"Great app, easy to use and helpful",positive
+U0053,Health,"The app is okay, average experience",neutral
+U0054,Education,"The app is okay, average experience",neutral
+U0055,Games,Crashes often and support is poor,negative
+U0056,Tools,Crashes often and support is poor,negative
+U0057,Health,"Great app, easy to use and helpful",positive
+U0058,Tools,Crashes often and support is poor,negative
+U0059,Entertainment,"The app is okay, average experience",neutral
+U0060,Education,"Great app, easy to use and helpful",positive
+U0061,Health,"The app is okay, average experience",neutral
+U0062,Entertainment,Crashes often and support is poor,negative
+U0063,Lifestyle,"Great app, easy to use and helpful",positive
+U0064,Games,Crashes often and support is poor,negative
+U0065,Health,"Great app, easy to use and helpful",positive
+U0066,Education,"Great app, easy to use and helpful",positive
+U0067,Health,"Great app, easy to use and helpful",positive
+U0068,Lifestyle,Crashes often and support is poor,negative
+U0069,Games,Crashes often and support is poor,negative
+U0070,Education,"The app is okay, average experience",neutral
+U0071,Finance,"Great app, easy to use and helpful",positive
+U0072,Games,Crashes often and support is poor,negative
+U0073,Finance,Crashes often and support is poor,negative
+U0074,Tools,Crashes often and support is poor,negative
+U0075,Lifestyle,"The app is okay, average experience",neutral
+U0076,Games,"The app is okay, average experience",neutral
+U0077,Finance,"The app is okay, average experience",neutral
+U0078,Finance,"The app is okay, average experience",neutral
+U0079,Finance,"The app is okay, average experience",neutral
+U0080,Finance,"The app is okay, average experience",neutral
+U0081,Lifestyle,"The app is okay, average experience",neutral
+U0082,Games,"The app is okay, average experience",neutral
+U0083,Health,"Great app, easy to use and helpful",positive
+U0084,Games,Crashes often and support is poor,negative
+U0085,Health,"Great app, easy to use and helpful",positive
+U0086,Education,"The app is okay, average experience",neutral
+U0087,Tools,Crashes often and support is poor,negative
+U0088,Lifestyle,"The app is okay, average experience",neutral
+U0089,Lifestyle,Crashes often and support is poor,negative
+U0090,Entertainment,"Great app, easy to use and helpful",positive
+U0091,Finance,"Great app, easy to use and helpful",positive
+U0092,Games,Crashes often and support is poor,negative
+U0093,Tools,"The app is okay, average experience",neutral
+U0094,Entertainment,"Great app, easy to use and helpful",positive
+U0095,Tools,"Great app, easy to use and helpful",positive
+U0096,Tools,"The app is okay, average experience",neutral
+U0097,Games,"The app is okay, average experience",neutral
+U0098,Education,"Great app, easy to use and helpful",positive
+U0099,Games,Crashes often and support is poor,negative
+U0100,Finance,"The app is okay, average experience",neutral
+U0101,Tools,"The app is okay, average experience",neutral
+U0102,Lifestyle,"Great app, easy to use and helpful",positive
+U0103,Tools,"Great app, easy to use and helpful",positive
+U0104,Tools,"The app is okay, average experience",neutral
+U0105,Games,"Great app, easy to use and helpful",positive
+U0106,Health,"Great app, easy to use and helpful",positive
+U0107,Entertainment,Crashes often and support is poor,negative
+U0108,Lifestyle,"The app is okay, average experience",neutral
+U0109,Health,Crashes often and support is poor,negative
+U0110,Lifestyle,Crashes often and support is poor,negative
+U0111,Tools,Crashes often and support is poor,negative
+U0112,Lifestyle,"The app is okay, average experience",neutral
+U0113,Entertainment,"Great app, easy to use and helpful",positive
+U0114,Health,Crashes often and support is poor,negative
+U0115,Education,"Great app, easy to use and helpful",positive
+U0116,Tools,"The app is okay, average experience",neutral
+U0117,Education,Crashes often and support is poor,negative
+U0118,Education,Crashes often and support is poor,negative
+U0119,Tools,"Great app, easy to use and helpful",positive
+U0120,Games,"The app is okay, average experience",neutral
+U0121,Tools,"Great app, easy to use and helpful",positive
+U0122,Health,"Great app, easy to use and helpful",positive
+U0123,Entertainment,"Great app, easy to use and helpful",positive
+U0124,Health,Crashes often and support is poor,negative
+U0125,Games,"Great app, easy to use and helpful",positive
+U0126,Games,"Great app, easy to use and helpful",positive
+U0127,Finance,"The app is okay, average experience",neutral
+U0128,Education,"The app is okay, average experience",neutral
+U0129,Finance,"Great app, easy to use and helpful",positive
+U0130,Finance,Crashes often and support is poor,negative
+U0131,Games,Crashes often and support is poor,negative
+U0132,Lifestyle,Crashes often and support is poor,negative
+U0133,Tools,"The app is okay, average experience",neutral
+U0134,Lifestyle,"Great app, easy to use and helpful",positive
+U0135,Tools,Crashes often and support is poor,negative
+U0136,Entertainment,Crashes often and support is poor,negative
+U0137,Health,"The app is okay, average experience",neutral
+U0138,Lifestyle,"Great app, easy to use and helpful",positive
+U0139,Education,Crashes often and support is poor,negative
+U0140,Games,"Great app, easy to use and helpful",positive
+U0141,Games,"Great app, easy to use and helpful",positive
+U0142,Games,"The app is okay, average experience",neutral
+U0143,Entertainment,Crashes often and support is poor,negative
+U0144,Finance,"The app is okay, average experience",neutral
+U0145,Games,Crashes often and support is poor,negative
+U0146,Health,"The app is okay, average experience",neutral
+U0147,Lifestyle,Crashes often and support is poor,negative
+U0148,Tools,"Great app, easy to use and helpful",positive
+U0149,Lifestyle,"Great app, easy to use and helpful",positive
+U0150,Games,"Great app, easy to use and helpful",positive
+U0151,Entertainment,"Great app, easy to use and helpful",positive
+U0152,Finance,"The app is okay, average experience",neutral
+U0153,Games,Crashes often and support is poor,negative
+U0154,Entertainment,Crashes often and support is poor,negative
+U0155,Games,"Great app, easy to use and helpful",positive
+U0156,Entertainment,Crashes often and support is poor,negative
+U0157,Education,"Great app, easy to use and helpful",positive
+U0158,Health,"The app is okay, average experience",neutral
+U0159,Entertainment,Crashes often and support is poor,negative
+U0160,Lifestyle,Crashes often and support is poor,negative
+U0161,Tools,Crashes often and support is poor,negative
+U0162,Entertainment,Crashes often and support is poor,negative
+U0163,Health,Crashes often and support is poor,negative
+U0164,Health,"Great app, easy to use and helpful",positive
+U0165,Finance,"The app is okay, average experience",neutral
+U0166,Tools,"The app is okay, average experience",neutral
+U0167,Health,Crashes often and support is poor,negative
+U0168,Lifestyle,"The app is okay, average experience",neutral
+U0169,Lifestyle,"The app is okay, average experience",neutral
+U0170,Games,"Great app, easy to use and helpful",positive
+U0171,Lifestyle,"The app is okay, average experience",neutral
+U0172,Lifestyle,"The app is okay, average experience",neutral
+U0173,Tools,"Great app, easy to use and helpful",positive
+U0174,Health,"The app is okay, average experience",neutral
+U0175,Health,Crashes often and support is poor,negative
+U0176,Education,"The app is okay, average experience",neutral
+U0177,Tools,"Great app, easy to use and helpful",positive
+U0178,Education,"The app is okay, average experience",neutral
+U0179,Lifestyle,"The app is okay, average experience",neutral
+U0180,Education,"Great app, easy to use and helpful",positive
+U0181,Lifestyle,Crashes often and support is poor,negative
+U0182,Games,"The app is okay, average experience",neutral
+U0183,Games,Crashes often and support is poor,negative
+U0184,Games,"Great app, easy to use and helpful",positive
+U0185,Finance,"Great app, easy to use and helpful",positive
+U0186,Games,"Great app, easy to use and helpful",positive
+U0187,Health,"Great app, easy to use and helpful",positive
+U0188,Health,"The app is okay, average experience",neutral
+U0189,Tools,Crashes often and support is poor,negative
+U0190,Finance,Crashes often and support is poor,negative
+U0191,Lifestyle,"Great app, easy to use and helpful",positive
+U0192,Finance,"The app is okay, average experience",neutral
+U0193,Entertainment,"The app is okay, average experience",neutral
+U0194,Games,"Great app, easy to use and helpful",positive
+U0195,Games,Crashes often and support is poor,negative
+U0196,Finance,Crashes often and support is poor,negative
+U0197,Finance,"Great app, easy to use and helpful",positive
+U0198,Education,Crashes often and support is poor,negative
+U0199,Education,"The app is okay, average experience",neutral
+U0200,Lifestyle,"Great app, easy to use and helpful",positive
+U0201,Games,"The app is okay, average experience",neutral
+U0202,Finance,"The app is okay, average experience",neutral
+U0203,Games,"Great app, easy to use and helpful",positive
+U0204,Health,"The app is okay, average experience",neutral
+U0205,Lifestyle,Crashes often and support is poor,negative
+U0206,Tools,"Great app, easy to use and helpful",positive
+U0207,Entertainment,"Great app, easy to use and helpful",positive
+U0208,Tools,"Great app, easy to use and helpful",positive
+U0209,Education,Crashes often and support is poor,negative
+U0210,Finance,"Great app, easy to use and helpful",positive
+U0211,Tools,"Great app, easy to use and helpful",positive
+U0212,Lifestyle,"The app is okay, average experience",neutral
+U0213,Finance,"Great app, easy to use and helpful",positive
+U0214,Games,"Great app, easy to use and helpful",positive
+U0215,Lifestyle,"Great app, easy to use and helpful",positive
+U0216,Tools,Crashes often and support is poor,negative
+U0217,Lifestyle,"Great app, easy to use and helpful",positive
+U0218,Finance,Crashes often and support is poor,negative
+U0219,Tools,"Great app, easy to use and helpful",positive
+U0220,Tools,Crashes often and support is poor,negative
+U0221,Tools,Crashes often and support is poor,negative
+U0222,Entertainment,Crashes often and support is poor,negative
+U0223,Games,"The app is okay, average experience",neutral
+U0224,Education,"Great app, easy to use and helpful",positive
+U0225,Lifestyle,"Great app, easy to use and helpful",positive
+U0226,Entertainment,Crashes often and support is poor,negative
+U0227,Finance,"Great app, easy to use and helpful",positive
+U0228,Lifestyle,"The app is okay, average experience",neutral
+U0229,Entertainment,"Great app, easy to use and helpful",positive
+U0230,Education,Crashes often and support is poor,negative
+U0231,Education,Crashes often and support is poor,negative
+U0232,Lifestyle,Crashes often and support is poor,negative
+U0233,Entertainment,"The app is okay, average experience",neutral
+U0234,Health,"The app is okay, average experience",neutral
+U0235,Tools,"The app is okay, average experience",neutral
+U0236,Tools,"The app is okay, average experience",neutral
+U0237,Entertainment,"The app is okay, average experience",neutral
+U0238,Education,"Great app, easy to use and helpful",positive
+U0239,Tools,"The app is okay, average experience",neutral
+U0240,Education,"Great app, easy to use and helpful",positive
+U0241,Lifestyle,"Great app, easy to use and helpful",positive
+U0242,Entertainment,"The app is okay, average experience",neutral
+U0243,Tools,Crashes often and support is poor,negative
+U0244,Entertainment,"The app is okay, average experience",neutral
+U0245,Entertainment,"The app is okay, average experience",neutral
+U0246,Education,"Great app, easy to use and helpful",positive
+U0247,Entertainment,"Great app, easy to use and helpful",positive
+U0248,Games,"Great app, easy to use and helpful",positive
+U0249,Health,"Great app, easy to use and helpful",positive
+U0250,Entertainment,"Great app, easy to use and helpful",positive
+U0251,Finance,Crashes often and support is poor,negative
+U0252,Entertainment,Crashes often and support is poor,negative
+U0253,Tools,"Great app, easy to use and helpful",positive
+U0254,Education,"The app is okay, average experience",neutral
+U0255,Games,"The app is okay, average experience",neutral
+U0256,Entertainment,"Great app, easy to use and helpful",positive
+U0257,Education,"The app is okay, average experience",neutral
+U0258,Education,Crashes often and support is poor,negative
+U0259,Health,"The app is okay, average experience",neutral
+U0260,Tools,Crashes often and support is poor,negative
+U0261,Finance,"The app is okay, average experience",neutral
+U0262,Finance,Crashes often and support is poor,negative
+U0263,Finance,"The app is okay, average experience",neutral
+U0264,Health,Crashes often and support is poor,negative
+U0265,Lifestyle,Crashes often and support is poor,negative
+U0266,Tools,"The app is okay, average experience",neutral
+U0267,Lifestyle,"Great app, easy to use and helpful",positive
+U0268,Tools,"The app is okay, average experience",neutral
+U0269,Games,Crashes often and support is poor,negative
+U0270,Education,"The app is okay, average experience",neutral
+U0271,Finance,Crashes often and support is poor,negative
+U0272,Games,"Great app, easy to use and helpful",positive
+U0273,Games,"The app is okay, average experience",neutral
+U0274,Finance,"Great app, easy to use and helpful",positive
+U0275,Games,"The app is okay, average experience",neutral
+U0276,Health,Crashes often and support is poor,negative
+U0277,Games,"The app is okay, average experience",neutral
+U0278,Entertainment,"The app is okay, average experience",neutral
+U0279,Health,"The app is okay, average experience",neutral
+U0280,Entertainment,"Great app, easy to use and helpful",positive
+U0281,Finance,"The app is okay, average experience",neutral
+U0282,Lifestyle,"The app is okay, average experience",neutral
+U0283,Health,Crashes often and support is poor,negative
+U0284,Finance,Crashes often and support is poor,negative
+U0285,Education,"The app is okay, average experience",neutral
+U0286,Health,"Great app, easy to use and helpful",positive
+U0287,Tools,"The app is okay, average experience",neutral
+U0288,Health,Crashes often and support is poor,negative
+U0289,Entertainment,"The app is okay, average experience",neutral
+U0290,Health,"Great app, easy to use and helpful",positive
+U0291,Tools,"Great app, easy to use and helpful",positive
+U0292,Entertainment,"Great app, easy to use and helpful",positive
+U0293,Games,"The app is okay, average experience",neutral
+U0294,Finance,"The app is okay, average experience",neutral
+U0295,Lifestyle,"Great app, easy to use and helpful",positive
+U0296,Finance,Crashes often and support is poor,negative
+U0297,Entertainment,"Great app, easy to use and helpful",positive
+U0298,Games,Crashes often and support is poor,negative
+U0299,Tools,"The app is okay, average experience",neutral
+U0300,Finance,"Great app, easy to use and helpful",positive
+U0301,Health,"Great app, easy to use and helpful",positive
+U0302,Health,"The app is okay, average experience",neutral
+U0303,Education,Crashes often and support is poor,negative
+U0304,Education,"Great app, easy to use and helpful",positive
+U0305,Education,"Great app, easy to use and helpful",positive
+U0306,Health,"The app is okay, average experience",neutral
+U0307,Lifestyle,"Great app, easy to use and helpful",positive
+U0308,Tools,Crashes often and support is poor,negative
+U0309,Health,"Great app, easy to use and helpful",positive
+U0310,Education,"Great app, easy to use and helpful",positive
+U0311,Games,Crashes often and support is poor,negative
+U0312,Tools,"The app is okay, average experience",neutral
+U0313,Lifestyle,Crashes often and support is poor,negative
+U0314,Lifestyle,Crashes often and support is poor,negative
+U0315,Lifestyle,Crashes often and support is poor,negative
+U0316,Health,Crashes often and support is poor,negative
+U0317,Games,Crashes often and support is poor,negative
+U0318,Finance,Crashes often and support is poor,negative
+U0319,Finance,"The app is okay, average experience",neutral
+U0320,Lifestyle,"The app is okay, average experience",neutral
+U0321,Health,"Great app, easy to use and helpful",positive
+U0322,Entertainment,Crashes often and support is poor,negative
+U0323,Finance,"Great app, easy to use and helpful",positive
+U0324,Health,"Great app, easy to use and helpful",positive
+U0325,Games,"Great app, easy to use and helpful",positive
+U0326,Entertainment,"Great app, easy to use and helpful",positive
+U0327,Tools,"The app is okay, average experience",neutral
+U0328,Finance,"Great app, easy to use and helpful",positive
+U0329,Education,"The app is okay, average experience",neutral
+U0330,Education,"Great app, easy to use and helpful",positive
+U0331,Education,"Great app, easy to use and helpful",positive
+U0332,Finance,"Great app, easy to use and helpful",positive
+U0333,Entertainment,"Great app, easy to use and helpful",positive
+U0334,Tools,Crashes often and support is poor,negative
+U0335,Games,"The app is okay, average experience",neutral
+U0336,Finance,"Great app, easy to use and helpful",positive
+U0337,Games,Crashes often and support is poor,negative
+U0338,Lifestyle,"Great app, easy to use and helpful",positive
+U0339,Entertainment,"The app is okay, average experience",neutral
+U0340,Education,"The app is okay, average experience",neutral
+U0341,Finance,"The app is okay, average experience",neutral
+U0342,Tools,"The app is okay, average experience",neutral
+U0343,Tools,"The app is okay, average experience",neutral
+U0344,Games,Crashes often and support is poor,negative
+U0345,Games,"Great app, easy to use and helpful",positive
+U0346,Tools,"The app is okay, average experience",neutral
+U0347,Games,Crashes often and support is poor,negative
+U0348,Lifestyle,Crashes often and support is poor,negative
+U0349,Entertainment,"The app is okay, average experience",neutral
+U0350,Games,"The app is okay, average experience",neutral
+U0351,Tools,Crashes often and support is poor,negative
+U0352,Lifestyle,Crashes often and support is poor,negative
+U0353,Education,Crashes often and support is poor,negative
+U0354,Games,"The app is okay, average experience",neutral
+U0355,Tools,"The app is okay, average experience",neutral
+U0356,Education,"The app is okay, average experience",neutral
+U0357,Tools,Crashes often and support is poor,negative
+U0358,Education,"The app is okay, average experience",neutral
+U0359,Entertainment,"Great app, easy to use and helpful",positive
+U0360,Tools,"The app is okay, average experience",neutral
+U0361,Lifestyle,Crashes often and support is poor,negative
+U0362,Entertainment,"Great app, easy to use and helpful",positive
+U0363,Lifestyle,"The app is okay, average experience",neutral
+U0364,Tools,"The app is okay, average experience",neutral
+U0365,Tools,"The app is okay, average experience",neutral
+U0366,Lifestyle,Crashes often and support is poor,negative
+U0367,Games,"Great app, easy to use and helpful",positive
+U0368,Games,"The app is okay, average experience",neutral
+U0369,Health,"Great app, easy to use and helpful",positive
+U0370,Health,Crashes often and support is poor,negative
+U0371,Entertainment,"The app is okay, average experience",neutral
+U0372,Lifestyle,"The app is okay, average experience",neutral
+U0373,Education,Crashes often and support is poor,negative
+U0374,Games,"Great app, easy to use and helpful",positive
+U0375,Entertainment,"The app is okay, average experience",neutral
+U0376,Health,"The app is okay, average experience",neutral
+U0377,Entertainment,Crashes often and support is poor,negative
+U0378,Lifestyle,"The app is okay, average experience",neutral
+U0379,Health,"The app is okay, average experience",neutral
+U0380,Health,"Great app, easy to use and helpful",positive
+U0381,Games,"The app is okay, average experience",neutral
+U0382,Tools,"The app is okay, average experience",neutral
+U0383,Health,"Great app, easy to use and helpful",positive
+U0384,Education,"The app is okay, average experience",neutral
+U0385,Tools,"Great app, easy to use and helpful",positive
+U0386,Lifestyle,"The app is okay, average experience",neutral
+U0387,Tools,Crashes often and support is poor,negative
+U0388,Entertainment,Crashes often and support is poor,negative
+U0389,Tools,"The app is okay, average experience",neutral
+U0390,Games,Crashes often and support is poor,negative
+U0391,Education,"Great app, easy to use and helpful",positive
+U0392,Games,"The app is okay, average experience",neutral
+U0393,Education,Crashes often and support is poor,negative
+U0394,Lifestyle,Crashes often and support is poor,negative
+U0395,Lifestyle,"Great app, easy to use and helpful",positive
+U0396,Health,"The app is okay, average experience",neutral
+U0397,Games,"The app is okay, average experience",neutral
+U0398,Education,"Great app, easy to use and helpful",positive
+U0399,Lifestyle,"Great app, easy to use and helpful",positive
+U0400,Games,Crashes often and support is poor,negative
+U0401,Health,"Great app, easy to use and helpful",positive
+U0402,Games,"Great app, easy to use and helpful",positive
+U0403,Health,"The app is okay, average experience",neutral
+U0404,Games,"The app is okay, average experience",neutral
+U0405,Education,Crashes often and support is poor,negative
+U0406,Health,"The app is okay, average experience",neutral
+U0407,Lifestyle,Crashes often and support is poor,negative
+U0408,Entertainment,"The app is okay, average experience",neutral
+U0409,Tools,Crashes often and support is poor,negative
+U0410,Games,Crashes often and support is poor,negative
+U0411,Education,Crashes often and support is poor,negative
+U0412,Education,"Great app, easy to use and helpful",positive
+U0413,Finance,Crashes often and support is poor,negative
+U0414,Entertainment,"The app is okay, average experience",neutral
+U0415,Games,"The app is okay, average experience",neutral
+U0416,Lifestyle,Crashes often and support is poor,negative
+U0417,Education,"The app is okay, average experience",neutral
+U0418,Tools,Crashes often and support is poor,negative
+U0419,Games,"The app is okay, average experience",neutral
+U0420,Tools,Crashes often and support is poor,negative
+U0421,Education,"The app is okay, average experience",neutral
+U0422,Finance,Crashes often and support is poor,negative
+U0423,Entertainment,"The app is okay, average experience",neutral
+U0424,Finance,"Great app, easy to use and helpful",positive
+U0425,Tools,"The app is okay, average experience",neutral
+U0426,Tools,"Great app, easy to use and helpful",positive
+U0427,Education,Crashes often and support is poor,negative
+U0428,Health,"Great app, easy to use and helpful",positive
+U0429,Entertainment,Crashes often and support is poor,negative
+U0430,Tools,"The app is okay, average experience",neutral
+U0431,Health,"Great app, easy to use and helpful",positive
+U0432,Education,"Great app, easy to use and helpful",positive
+U0433,Finance,Crashes often and support is poor,negative
+U0434,Games,"The app is okay, average experience",neutral
+U0435,Health,"Great app, easy to use and helpful",positive
+U0436,Education,"Great app, easy to use and helpful",positive
+U0437,Lifestyle,"The app is okay, average experience",neutral
+U0438,Tools,"The app is okay, average experience",neutral
+U0439,Entertainment,"Great app, easy to use and helpful",positive
+U0440,Lifestyle,"The app is okay, average experience",neutral
+U0441,Tools,Crashes often and support is poor,negative
+U0442,Entertainment,"Great app, easy to use and helpful",positive
+U0443,Entertainment,"The app is okay, average experience",neutral
+U0444,Lifestyle,"Great app, easy to use and helpful",positive
+U0445,Tools,"Great app, easy to use and helpful",positive
+U0446,Finance,"Great app, easy to use and helpful",positive
+U0447,Education,"The app is okay, average experience",neutral
+U0448,Tools,Crashes often and support is poor,negative
+U0449,Tools,Crashes often and support is poor,negative
+U0450,Lifestyle,"Great app, easy to use and helpful",positive
+U0451,Education,Crashes often and support is poor,negative
+U0452,Tools,Crashes often and support is poor,negative
+U0453,Games,"The app is okay, average experience",neutral
+U0454,Tools,"The app is okay, average experience",neutral
+U0455,Games,"Great app, easy to use and helpful",positive
+U0456,Finance,"Great app, easy to use and helpful",positive
+U0457,Tools,Crashes often and support is poor,negative
+U0458,Lifestyle,"Great app, easy to use and helpful",positive
+U0459,Tools,Crashes often and support is poor,negative
+U0460,Tools,Crashes often and support is poor,negative
+U0461,Games,"The app is okay, average experience",neutral
+U0462,Finance,Crashes often and support is poor,negative
+U0463,Education,"The app is okay, average experience",neutral
+U0464,Education,"The app is okay, average experience",neutral
+U0465,Finance,"Great app, easy to use and helpful",positive
+U0466,Finance,Crashes often and support is poor,negative
+U0467,Lifestyle,"The app is okay, average experience",neutral
+U0468,Health,"The app is okay, average experience",neutral
+U0469,Entertainment,"The app is okay, average experience",neutral
+U0470,Health,"The app is okay, average experience",neutral
+U0471,Tools,Crashes often and support is poor,negative
+U0472,Tools,"Great app, easy to use and helpful",positive
+U0473,Health,Crashes often and support is poor,negative
+U0474,Games,"Great app, easy to use and helpful",positive
+U0475,Tools,Crashes often and support is poor,negative
+U0476,Tools,Crashes often and support is poor,negative
+U0477,Education,"Great app, easy to use and helpful",positive
+U0478,Entertainment,"The app is okay, average experience",neutral
+U0479,Entertainment,Crashes often and support is poor,negative
+U0480,Tools,Crashes often and support is poor,negative
+U0481,Games,"The app is okay, average experience",neutral
+U0482,Lifestyle,"Great app, easy to use and helpful",positive
+U0483,Tools,"Great app, easy to use and helpful",positive
+U0484,Health,Crashes often and support is poor,negative
+U0485,Lifestyle,Crashes often and support is poor,negative
+U0486,Finance,"The app is okay, average experience",neutral
+U0487,Finance,"Great app, easy to use and helpful",positive
+U0488,Finance,"The app is okay, average experience",neutral
+U0489,Health,"Great app, easy to use and helpful",positive
+U0490,Health,"Great app, easy to use and helpful",positive
+U0491,Education,"The app is okay, average experience",neutral
+U0492,Tools,Crashes often and support is poor,negative
+U0493,Games,"Great app, easy to use and helpful",positive
+U0494,Finance,"Great app, easy to use and helpful",positive
+U0495,Education,Crashes often and support is poor,negative
+U0496,Games,"The app is okay, average experience",neutral
+U0497,Entertainment,Crashes often and support is poor,negative
+U0498,Games,Crashes often and support is poor,negative
+U0499,Lifestyle,"The app is okay, average experience",neutral
+U0500,Education,"Great app, easy to use and helpful",positive
+U0501,Games,"The app is okay, average experience",neutral
+U0502,Entertainment,Crashes often and support is poor,negative
+U0503,Finance,"Great app, easy to use and helpful",positive
+U0504,Tools,Crashes often and support is poor,negative
+U0505,Games,Crashes often and support is poor,negative
+U0506,Health,"The app is okay, average experience",neutral
+U0507,Games,Crashes often and support is poor,negative
+U0508,Lifestyle,"The app is okay, average experience",neutral
+U0509,Entertainment,"The app is okay, average experience",neutral
+U0510,Finance,"The app is okay, average experience",neutral
+U0511,Education,Crashes often and support is poor,negative
+U0512,Tools,"Great app, easy to use and helpful",positive
+U0513,Education,"The app is okay, average experience",neutral
+U0514,Education,"Great app, easy to use and helpful",positive
+U0515,Games,"Great app, easy to use and helpful",positive
+U0516,Games,"The app is okay, average experience",neutral
+U0517,Tools,"Great app, easy to use and helpful",positive
+U0518,Lifestyle,Crashes often and support is poor,negative
+U0519,Health,"The app is okay, average experience",neutral
+U0520,Education,"The app is okay, average experience",neutral
+U0521,Entertainment,"The app is okay, average experience",neutral
+U0522,Health,"The app is okay, average experience",neutral
+U0523,Lifestyle,"Great app, easy to use and helpful",positive
+U0524,Finance,"The app is okay, average experience",neutral
+U0525,Finance,Crashes often and support is poor,negative
+U0526,Games,"Great app, easy to use and helpful",positive
+U0527,Finance,"The app is okay, average experience",neutral
+U0528,Health,"The app is okay, average experience",neutral
+U0529,Health,Crashes often and support is poor,negative
+U0530,Health,Crashes often and support is poor,negative
+U0531,Games,Crashes often and support is poor,negative
+U0532,Finance,Crashes often and support is poor,negative
+U0533,Education,"Great app, easy to use and helpful",positive
+U0534,Finance,Crashes often and support is poor,negative
+U0535,Games,"Great app, easy to use and helpful",positive
+U0536,Health,"Great app, easy to use and helpful",positive
+U0537,Health,"Great app, easy to use and helpful",positive
+U0538,Health,"Great app, easy to use and helpful",positive
+U0539,Lifestyle,"The app is okay, average experience",neutral
+U0540,Health,Crashes often and support is poor,negative
+U0541,Health,"The app is okay, average experience",neutral
+U0542,Games,"The app is okay, average experience",neutral
+U0543,Finance,"Great app, easy to use and helpful",positive
+U0544,Finance,Crashes often and support is poor,negative
+U0545,Finance,"Great app, easy to use and helpful",positive
+U0546,Health,Crashes often and support is poor,negative
+U0547,Games,Crashes often and support is poor,negative
+U0548,Entertainment,"Great app, easy to use and helpful",positive
+U0549,Tools,"Great app, easy to use and helpful",positive
+U0550,Finance,"The app is okay, average experience",neutral
+U0551,Finance,"The app is okay, average experience",neutral
+U0552,Education,"The app is okay, average experience",neutral
+U0553,Lifestyle,"The app is okay, average experience",neutral
+U0554,Health,"The app is okay, average experience",neutral
+U0555,Health,Crashes often and support is poor,negative
+U0556,Finance,"Great app, easy to use and helpful",positive
+U0557,Education,"The app is okay, average experience",neutral
+U0558,Tools,Crashes often and support is poor,negative
+U0559,Education,"The app is okay, average experience",neutral
+U0560,Finance,Crashes often and support is poor,negative
+U0561,Tools,"Great app, easy to use and helpful",positive
+U0562,Lifestyle,Crashes often and support is poor,negative
+U0563,Tools,Crashes often and support is poor,negative
+U0564,Tools,Crashes often and support is poor,negative
+U0565,Games,"Great app, easy to use and helpful",positive
+U0566,Finance,"Great app, easy to use and helpful",positive
+U0567,Health,"Great app, easy to use and helpful",positive
+U0568,Games,"Great app, easy to use and helpful",positive
+U0569,Entertainment,"Great app, easy to use and helpful",positive
+U0570,Education,"Great app, easy to use and helpful",positive
+U0571,Health,"Great app, easy to use and helpful",positive
+U0572,Entertainment,"Great app, easy to use and helpful",positive
+U0573,Finance,Crashes often and support is poor,negative
+U0574,Health,"Great app, easy to use and helpful",positive
+U0575,Education,"Great app, easy to use and helpful",positive
+U0576,Education,"The app is okay, average experience",neutral
+U0577,Health,Crashes often and support is poor,negative
+U0578,Finance,"The app is okay, average experience",neutral
+U0579,Entertainment,Crashes often and support is poor,negative
+U0580,Lifestyle,"Great app, easy to use and helpful",positive
+U0581,Health,Crashes often and support is poor,negative
+U0582,Tools,"The app is okay, average experience",neutral
+U0583,Health,Crashes often and support is poor,negative
+U0584,Games,"Great app, easy to use and helpful",positive
+U0585,Entertainment,"The app is okay, average experience",neutral
+U0586,Tools,"Great app, easy to use and helpful",positive
+U0587,Tools,"The app is okay, average experience",neutral
+U0588,Education,"Great app, easy to use and helpful",positive
+U0589,Education,"The app is okay, average experience",neutral
+U0590,Tools,Crashes often and support is poor,negative
+U0591,Education,"The app is okay, average experience",neutral
+U0592,Tools,Crashes often and support is poor,negative
+U0593,Games,"The app is okay, average experience",neutral
+U0594,Health,"The app is okay, average experience",neutral
+U0595,Tools,"Great app, easy to use and helpful",positive
+U0596,Entertainment,"The app is okay, average experience",neutral
+U0597,Education,"Great app, easy to use and helpful",positive
+U0598,Tools,Crashes often and support is poor,negative
+U0599,Tools,"Great app, easy to use and helpful",positive
+U0600,Health,Crashes often and support is poor,negative
+U0601,Education,"The app is okay, average experience",neutral
+U0602,Games,Crashes often and support is poor,negative
+U0603,Education,"Great app, easy to use and helpful",positive
+U0604,Lifestyle,Crashes often and support is poor,negative
+U0605,Lifestyle,"Great app, easy to use and helpful",positive
+U0606,Finance,"Great app, easy to use and helpful",positive
+U0607,Finance,"Great app, easy to use and helpful",positive
+U0608,Entertainment,"Great app, easy to use and helpful",positive
+U0609,Entertainment,"Great app, easy to use and helpful",positive
+U0610,Tools,"The app is okay, average experience",neutral
+U0611,Lifestyle,"The app is okay, average experience",neutral
+U0612,Health,"Great app, easy to use and helpful",positive
+U0613,Entertainment,"The app is okay, average experience",neutral
+U0614,Tools,"The app is okay, average experience",neutral
+U0615,Health,"The app is okay, average experience",neutral
+U0616,Education,"Great app, easy to use and helpful",positive
+U0617,Games,"The app is okay, average experience",neutral
+U0618,Health,"Great app, easy to use and helpful",positive
+U0619,Education,"Great app, easy to use and helpful",positive
+U0620,Entertainment,"Great app, easy to use and helpful",positive
+U0621,Tools,"Great app, easy to use and helpful",positive
+U0622,Lifestyle,"The app is okay, average experience",neutral
+U0623,Games,"Great app, easy to use and helpful",positive
+U0624,Education,Crashes often and support is poor,negative
+U0625,Entertainment,"Great app, easy to use and helpful",positive
+U0626,Finance,"Great app, easy to use and helpful",positive
+U0627,Lifestyle,"Great app, easy to use and helpful",positive
+U0628,Lifestyle,Crashes often and support is poor,negative
+U0629,Finance,"Great app, easy to use and helpful",positive
+U0630,Finance,"The app is okay, average experience",neutral
+U0631,Finance,Crashes often and support is poor,negative
+U0632,Entertainment,"Great app, easy to use and helpful",positive
+U0633,Lifestyle,Crashes often and support is poor,negative
+U0634,Entertainment,"Great app, easy to use and helpful",positive
+U0635,Lifestyle,"Great app, easy to use and helpful",positive
+U0636,Entertainment,"The app is okay, average experience",neutral
+U0637,Health,"Great app, easy to use and helpful",positive
+U0638,Games,"The app is okay, average experience",neutral
+U0639,Tools,Crashes often and support is poor,negative
+U0640,Tools,"Great app, easy to use and helpful",positive
+U0641,Entertainment,"The app is okay, average experience",neutral
+U0642,Health,Crashes often and support is poor,negative
+U0643,Health,"Great app, easy to use and helpful",positive
+U0644,Games,"The app is okay, average experience",neutral
+U0645,Finance,"The app is okay, average experience",neutral
+U0646,Games,"The app is okay, average experience",neutral
+U0647,Finance,Crashes often and support is poor,negative
+U0648,Lifestyle,"Great app, easy to use and helpful",positive
+U0649,Education,Crashes often and support is poor,negative
+U0650,Education,"Great app, easy to use and helpful",positive
+U0651,Tools,"The app is okay, average experience",neutral
+U0652,Health,"Great app, easy to use and helpful",positive
+U0653,Health,"The app is okay, average experience",neutral
+U0654,Tools,"Great app, easy to use and helpful",positive
+U0655,Entertainment,Crashes often and support is poor,negative
+U0656,Lifestyle,Crashes often and support is poor,negative
+U0657,Finance,"The app is okay, average experience",neutral
+U0658,Tools,"Great app, easy to use and helpful",positive
+U0659,Lifestyle,Crashes often and support is poor,negative
+U0660,Lifestyle,"Great app, easy to use and helpful",positive
+U0661,Finance,"The app is okay, average experience",neutral
+U0662,Finance,Crashes often and support is poor,negative
+U0663,Games,"The app is okay, average experience",neutral
+U0664,Health,"The app is okay, average experience",neutral
+U0665,Tools,Crashes often and support is poor,negative
+U0666,Lifestyle,"Great app, easy to use and helpful",positive
+U0667,Education,"Great app, easy to use and helpful",positive
+U0668,Finance,"Great app, easy to use and helpful",positive
+U0669,Tools,Crashes often and support is poor,negative
+U0670,Games,Crashes often and support is poor,negative
+U0671,Finance,"Great app, easy to use and helpful",positive
+U0672,Entertainment,Crashes often and support is poor,negative
+U0673,Tools,Crashes often and support is poor,negative
+U0674,Education,"Great app, easy to use and helpful",positive
+U0675,Entertainment,"The app is okay, average experience",neutral
+U0676,Games,"The app is okay, average experience",neutral
+U0677,Entertainment,"The app is okay, average experience",neutral
+U0678,Games,"Great app, easy to use and helpful",positive
+U0679,Entertainment,"The app is okay, average experience",neutral
+U0680,Tools,"The app is okay, average experience",neutral
+U0681,Tools,"The app is okay, average experience",neutral
+U0682,Tools,"Great app, easy to use and helpful",positive
+U0683,Education,Crashes often and support is poor,negative
+U0684,Finance,"The app is okay, average experience",neutral
+U0685,Entertainment,Crashes often and support is poor,negative
+U0686,Games,Crashes often and support is poor,negative
+U0687,Tools,"Great app, easy to use and helpful",positive
+U0688,Finance,Crashes often and support is poor,negative
+U0689,Finance,"The app is okay, average experience",neutral
+U0690,Entertainment,Crashes often and support is poor,negative
+U0691,Lifestyle,"The app is okay, average experience",neutral
+U0692,Entertainment,"Great app, easy to use and helpful",positive
+U0693,Finance,"Great app, easy to use and helpful",positive
+U0694,Education,"The app is okay, average experience",neutral
+U0695,Education,"The app is okay, average experience",neutral
+U0696,Education,"The app is okay, average experience",neutral
+U0697,Health,Crashes often and support is poor,negative
+U0698,Lifestyle,"Great app, easy to use and helpful",positive
+U0699,Education,"Great app, easy to use and helpful",positive
+U0700,Tools,"The app is okay, average experience",neutral
+U0701,Health,"Great app, easy to use and helpful",positive
+U0702,Finance,"The app is okay, average experience",neutral
+U0703,Tools,"The app is okay, average experience",neutral
+U0704,Entertainment,Crashes often and support is poor,negative
+U0705,Tools,"Great app, easy to use and helpful",positive
+U0706,Finance,"Great app, easy to use and helpful",positive
+U0707,Finance,"The app is okay, average experience",neutral
+U0708,Lifestyle,"Great app, easy to use and helpful",positive
+U0709,Lifestyle,Crashes often and support is poor,negative
+U0710,Education,"The app is okay, average experience",neutral
+U0711,Lifestyle,Crashes often and support is poor,negative
+U0712,Tools,"Great app, easy to use and helpful",positive
+U0713,Tools,Crashes often and support is poor,negative
+U0714,Games,"Great app, easy to use and helpful",positive
+U0715,Education,Crashes often and support is poor,negative
+U0716,Games,"Great app, easy to use and helpful",positive
+U0717,Health,"Great app, easy to use and helpful",positive
+U0718,Tools,Crashes often and support is poor,negative
+U0719,Finance,Crashes often and support is poor,negative
+U0720,Health,Crashes often and support is poor,negative
+U0721,Finance,"Great app, easy to use and helpful",positive
+U0722,Health,Crashes often and support is poor,negative
+U0723,Tools,Crashes often and support is poor,negative
+U0724,Entertainment,"The app is okay, average experience",neutral
+U0725,Education,"The app is okay, average experience",neutral
+U0726,Education,"The app is okay, average experience",neutral
+U0727,Tools,"The app is okay, average experience",neutral
+U0728,Tools,"Great app, easy to use and helpful",positive
+U0729,Finance,"The app is okay, average experience",neutral
+U0730,Tools,"The app is okay, average experience",neutral
+U0731,Finance,Crashes often and support is poor,negative
+U0732,Finance,Crashes often and support is poor,negative
+U0733,Entertainment,Crashes often and support is poor,negative
+U0734,Finance,Crashes often and support is poor,negative
+U0735,Finance,"Great app, easy to use and helpful",positive
+U0736,Education,"Great app, easy to use and helpful",positive
+U0737,Finance,"The app is okay, average experience",neutral
+U0738,Tools,"Great app, easy to use and helpful",positive
+U0739,Education,"Great app, easy to use and helpful",positive
+U0740,Lifestyle,"Great app, easy to use and helpful",positive
+U0741,Tools,Crashes often and support is poor,negative
+U0742,Games,"Great app, easy to use and helpful",positive
+U0743,Games,"The app is okay, average experience",neutral
+U0744,Entertainment,Crashes often and support is poor,negative
+U0745,Entertainment,"The app is okay, average experience",neutral
+U0746,Finance,Crashes often and support is poor,negative
+U0747,Lifestyle,"The app is okay, average experience",neutral
+U0748,Tools,"Great app, easy to use and helpful",positive
+U0749,Lifestyle,"Great app, easy to use and helpful",positive
+U0750,Games,"The app is okay, average experience",neutral
+U0751,Entertainment,Crashes often and support is poor,negative
+U0752,Education,"Great app, easy to use and helpful",positive
+U0753,Lifestyle,"Great app, easy to use and helpful",positive
+U0754,Entertainment,"Great app, easy to use and helpful",positive
+U0755,Tools,"The app is okay, average experience",neutral
+U0756,Entertainment,"The app is okay, average experience",neutral
+U0757,Entertainment,Crashes often and support is poor,negative
+U0758,Tools,Crashes often and support is poor,negative
+U0759,Entertainment,Crashes often and support is poor,negative
+U0760,Lifestyle,"The app is okay, average experience",neutral
+U0761,Finance,"The app is okay, average experience",neutral
+U0762,Health,Crashes often and support is poor,negative
+U0763,Education,Crashes often and support is poor,negative
+U0764,Education,"Great app, easy to use and helpful",positive
+U0765,Games,"Great app, easy to use and helpful",positive
+U0766,Games,"The app is okay, average experience",neutral
+U0767,Finance,"Great app, easy to use and helpful",positive
+U0768,Lifestyle,Crashes often and support is poor,negative
+U0769,Education,"The app is okay, average experience",neutral
+U0770,Lifestyle,"The app is okay, average experience",neutral
+U0771,Lifestyle,"The app is okay, average experience",neutral
+U0772,Entertainment,Crashes often and support is poor,negative
+U0773,Lifestyle,Crashes often and support is poor,negative
+U0774,Lifestyle,"The app is okay, average experience",neutral
+U0775,Tools,"Great app, easy to use and helpful",positive
+U0776,Tools,Crashes often and support is poor,negative
+U0777,Entertainment,"The app is okay, average experience",neutral
+U0778,Games,"The app is okay, average experience",neutral
+U0779,Education,"Great app, easy to use and helpful",positive
+U0780,Tools,Crashes often and support is poor,negative
+U0781,Lifestyle,"Great app, easy to use and helpful",positive
+U0782,Entertainment,Crashes often and support is poor,negative
+U0783,Tools,"The app is okay, average experience",neutral
+U0784,Education,Crashes often and support is poor,negative
+U0785,Entertainment,"Great app, easy to use and helpful",positive
+U0786,Games,"Great app, easy to use and helpful",positive
+U0787,Tools,"Great app, easy to use and helpful",positive
+U0788,Games,"Great app, easy to use and helpful",positive
+U0789,Tools,"The app is okay, average experience",neutral
+U0790,Entertainment,Crashes often and support is poor,negative
+U0791,Finance,"Great app, easy to use and helpful",positive
+U0792,Health,"The app is okay, average experience",neutral
+U0793,Health,"Great app, easy to use and helpful",positive
+U0794,Lifestyle,"Great app, easy to use and helpful",positive
+U0795,Tools,"The app is okay, average experience",neutral
+U0796,Lifestyle,Crashes often and support is poor,negative
+U0797,Entertainment,"Great app, easy to use and helpful",positive
+U0798,Games,"Great app, easy to use and helpful",positive
+U0799,Games,"The app is okay, average experience",neutral
+U0800,Education,"Great app, easy to use and helpful",positive
+U0801,Education,Crashes often and support is poor,negative
+U0802,Health,"Great app, easy to use and helpful",positive
+U0803,Tools,"The app is okay, average experience",neutral
+U0804,Finance,"The app is okay, average experience",neutral
+U0805,Entertainment,Crashes often and support is poor,negative
+U0806,Entertainment,"The app is okay, average experience",neutral
+U0807,Lifestyle,Crashes often and support is poor,negative
+U0808,Entertainment,Crashes often and support is poor,negative
+U0809,Entertainment,"Great app, easy to use and helpful",positive
+U0810,Finance,"The app is okay, average experience",neutral
+U0811,Entertainment,"Great app, easy to use and helpful",positive
+U0812,Finance,"Great app, easy to use and helpful",positive
+U0813,Games,"Great app, easy to use and helpful",positive
+U0814,Finance,"Great app, easy to use and helpful",positive
+U0815,Games,Crashes often and support is poor,negative
+U0816,Tools,Crashes often and support is poor,negative
+U0817,Education,Crashes often and support is poor,negative
+U0818,Tools,"Great app, easy to use and helpful",positive
+U0819,Health,"The app is okay, average experience",neutral
+U0820,Tools,Crashes often and support is poor,negative
+U0821,Games,Crashes often and support is poor,negative
+U0822,Lifestyle,Crashes often and support is poor,negative
+U0823,Tools,"The app is okay, average experience",neutral
+U0824,Education,"The app is okay, average experience",neutral
+U0825,Finance,"Great app, easy to use and helpful",positive
+U0826,Lifestyle,Crashes often and support is poor,negative
+U0827,Tools,Crashes often and support is poor,negative
+U0828,Lifestyle,"The app is okay, average experience",neutral
+U0829,Lifestyle,"Great app, easy to use and helpful",positive
+U0830,Tools,"The app is okay, average experience",neutral
+U0831,Entertainment,Crashes often and support is poor,negative
+U0832,Finance,"Great app, easy to use and helpful",positive
+U0833,Lifestyle,Crashes often and support is poor,negative
+U0834,Lifestyle,"The app is okay, average experience",neutral
+U0835,Finance,Crashes often and support is poor,negative
+U0836,Tools,"The app is okay, average experience",neutral
+U0837,Games,Crashes often and support is poor,negative
+U0838,Games,Crashes often and support is poor,negative
+U0839,Games,Crashes often and support is poor,negative
+U0840,Entertainment,"Great app, easy to use and helpful",positive
+U0841,Games,"Great app, easy to use and helpful",positive
+U0842,Education,"Great app, easy to use and helpful",positive
+U0843,Entertainment,"The app is okay, average experience",neutral
+U0844,Health,Crashes often and support is poor,negative
+U0845,Education,Crashes often and support is poor,negative
+U0846,Entertainment,"The app is okay, average experience",neutral
+U0847,Education,Crashes often and support is poor,negative
+U0848,Lifestyle,"The app is okay, average experience",neutral
+U0849,Finance,"The app is okay, average experience",neutral
+U0850,Entertainment,Crashes often and support is poor,negative
+U0851,Education,"Great app, easy to use and helpful",positive
+U0852,Entertainment,"The app is okay, average experience",neutral
+U0853,Education,"Great app, easy to use and helpful",positive
+U0854,Health,Crashes often and support is poor,negative
+U0855,Games,"The app is okay, average experience",neutral
+U0856,Games,"Great app, easy to use and helpful",positive
+U0857,Lifestyle,"The app is okay, average experience",neutral
+U0858,Health,"The app is okay, average experience",neutral
+U0859,Lifestyle,"Great app, easy to use and helpful",positive
+U0860,Tools,"Great app, easy to use and helpful",positive
+U0861,Games,Crashes often and support is poor,negative
+U0862,Finance,Crashes often and support is poor,negative
+U0863,Education,Crashes often and support is poor,negative
+U0864,Tools,"The app is okay, average experience",neutral
+U0865,Health,Crashes often and support is poor,negative
+U0866,Entertainment,"Great app, easy to use and helpful",positive
+U0867,Finance,Crashes often and support is poor,negative
+U0868,Tools,Crashes often and support is poor,negative
+U0869,Lifestyle,Crashes often and support is poor,negative
+U0870,Education,"Great app, easy to use and helpful",positive
+U0871,Education,"The app is okay, average experience",neutral
+U0872,Entertainment,"Great app, easy to use and helpful",positive
+U0873,Finance,"The app is okay, average experience",neutral
+U0874,Finance,Crashes often and support is poor,negative
+U0875,Games,Crashes often and support is poor,negative
+U0876,Lifestyle,"Great app, easy to use and helpful",positive
+U0877,Entertainment,"The app is okay, average experience",neutral
+U0878,Games,Crashes often and support is poor,negative
+U0879,Education,Crashes often and support is poor,negative
+U0880,Health,Crashes often and support is poor,negative
+U0881,Games,"The app is okay, average experience",neutral
+U0882,Education,Crashes often and support is poor,negative
+U0883,Health,"The app is okay, average experience",neutral
+U0884,Finance,"The app is okay, average experience",neutral
+U0885,Tools,"The app is okay, average experience",neutral
+U0886,Tools,"The app is okay, average experience",neutral
+U0887,Games,"The app is okay, average experience",neutral
+U0888,Lifestyle,"The app is okay, average experience",neutral
+U0889,Games,Crashes often and support is poor,negative
+U0890,Health,Crashes often and support is poor,negative
+U0891,Education,"The app is okay, average experience",neutral
+U0892,Entertainment,Crashes often and support is poor,negative
+U0893,Education,"The app is okay, average experience",neutral
+U0894,Tools,"The app is okay, average experience",neutral
+U0895,Lifestyle,"Great app, easy to use and helpful",positive
+U0896,Tools,"The app is okay, average experience",neutral
+U0897,Tools,Crashes often and support is poor,negative
+U0898,Education,"Great app, easy to use and helpful",positive
+U0899,Lifestyle,"Great app, easy to use and helpful",positive
+U0900,Games,"The app is okay, average experience",neutral
+U0901,Lifestyle,"Great app, easy to use and helpful",positive
+U0902,Games,"Great app, easy to use and helpful",positive
+U0903,Games,Crashes often and support is poor,negative
+U0904,Entertainment,"The app is okay, average experience",neutral
+U0905,Health,"Great app, easy to use and helpful",positive
+U0906,Entertainment,"Great app, easy to use and helpful",positive
+U0907,Education,"Great app, easy to use and helpful",positive
+U0908,Games,Crashes often and support is poor,negative
+U0909,Health,Crashes often and support is poor,negative
+U0910,Lifestyle,"Great app, easy to use and helpful",positive
+U0911,Finance,"The app is okay, average experience",neutral
+U0912,Tools,Crashes often and support is poor,negative
+U0913,Entertainment,"Great app, easy to use and helpful",positive
+U0914,Lifestyle,"Great app, easy to use and helpful",positive
+U0915,Games,Crashes often and support is poor,negative
+U0916,Games,Crashes often and support is poor,negative
+U0917,Lifestyle,Crashes often and support is poor,negative
+U0918,Tools,Crashes often and support is poor,negative
+U0919,Health,"The app is okay, average experience",neutral
+U0920,Entertainment,"The app is okay, average experience",neutral
+U0921,Games,"Great app, easy to use and helpful",positive
+U0922,Entertainment,"The app is okay, average experience",neutral
+U0923,Education,"Great app, easy to use and helpful",positive
+U0924,Games,"The app is okay, average experience",neutral
+U0925,Entertainment,Crashes often and support is poor,negative
+U0926,Health,Crashes often and support is poor,negative
+U0927,Health,Crashes often and support is poor,negative
+U0928,Health,"Great app, easy to use and helpful",positive
+U0929,Tools,Crashes often and support is poor,negative
+U0930,Education,"The app is okay, average experience",neutral
+U0931,Health,"Great app, easy to use and helpful",positive
+U0932,Health,"The app is okay, average experience",neutral
+U0933,Health,"The app is okay, average experience",neutral
+U0934,Entertainment,Crashes often and support is poor,negative
+U0935,Lifestyle,"The app is okay, average experience",neutral
+U0936,Education,Crashes often and support is poor,negative
+U0937,Tools,"Great app, easy to use and helpful",positive
+U0938,Education,"Great app, easy to use and helpful",positive
+U0939,Health,"Great app, easy to use and helpful",positive
+U0940,Finance,"Great app, easy to use and helpful",positive
+U0941,Finance,Crashes often and support is poor,negative
+U0942,Health,"Great app, easy to use and helpful",positive
+U0943,Games,"Great app, easy to use and helpful",positive
+U0944,Entertainment,Crashes often and support is poor,negative
+U0945,Finance,"Great app, easy to use and helpful",positive
+U0946,Health,"Great app, easy to use and helpful",positive
+U0947,Finance,"Great app, easy to use and helpful",positive
+U0948,Games,Crashes often and support is poor,negative
+U0949,Lifestyle,"Great app, easy to use and helpful",positive
+U0950,Games,"The app is okay, average experience",neutral
+U0951,Finance,"The app is okay, average experience",neutral
+U0952,Finance,"The app is okay, average experience",neutral
+U0953,Education,Crashes often and support is poor,negative
+U0954,Lifestyle,Crashes often and support is poor,negative
+U0955,Lifestyle,Crashes often and support is poor,negative
+U0956,Lifestyle,"The app is okay, average experience",neutral
+U0957,Education,"Great app, easy to use and helpful",positive
+U0958,Entertainment,"The app is okay, average experience",neutral
+U0959,Entertainment,"Great app, easy to use and helpful",positive
+U0960,Games,Crashes often and support is poor,negative
+U0961,Games,"The app is okay, average experience",neutral
+U0962,Tools,"The app is okay, average experience",neutral
+U0963,Lifestyle,Crashes often and support is poor,negative
+U0964,Finance,"Great app, easy to use and helpful",positive
+U0965,Entertainment,"The app is okay, average experience",neutral
+U0966,Health,"Great app, easy to use and helpful",positive
+U0967,Health,Crashes often and support is poor,negative
+U0968,Health,"The app is okay, average experience",neutral
+U0969,Tools,"Great app, easy to use and helpful",positive
+U0970,Entertainment,Crashes often and support is poor,negative
+U0971,Games,"Great app, easy to use and helpful",positive
+U0972,Games,Crashes often and support is poor,negative
+U0973,Finance,Crashes often and support is poor,negative
+U0974,Education,"The app is okay, average experience",neutral
+U0975,Finance,"Great app, easy to use and helpful",positive
+U0976,Finance,"The app is okay, average experience",neutral
+U0977,Lifestyle,Crashes often and support is poor,negative
+U0978,Lifestyle,"The app is okay, average experience",neutral
+U0979,Health,"The app is okay, average experience",neutral
+U0980,Lifestyle,"The app is okay, average experience",neutral
+U0981,Health,"The app is okay, average experience",neutral
+U0982,Education,Crashes often and support is poor,negative
+U0983,Entertainment,Crashes often and support is poor,negative
+U0984,Lifestyle,Crashes often and support is poor,negative
+U0985,Lifestyle,Crashes often and support is poor,negative
+U0986,Lifestyle,Crashes often and support is poor,negative
+U0987,Lifestyle,Crashes often and support is poor,negative
+U0988,Entertainment,"Great app, easy to use and helpful",positive
+U0989,Health,"The app is okay, average experience",neutral
+U0990,Tools,"Great app, easy to use and helpful",positive
+U0991,Finance,Crashes often and support is poor,negative
+U0992,Education,"Great app, easy to use and helpful",positive
+U0993,Education,"The app is okay, average experience",neutral
+U0994,Tools,"Great app, easy to use and helpful",positive
+U0995,Games,"The app is okay, average experience",neutral
+U0996,Finance,"Great app, easy to use and helpful",positive
+U0997,Health,Crashes often and support is poor,negative
+U0998,Health,Crashes often and support is poor,negative
+U0999,Education,Crashes often and support is poor,negative
+U1000,Entertainment,"Great app, easy to use and helpful",positive

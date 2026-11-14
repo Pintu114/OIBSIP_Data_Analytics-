@@ -1,0 +1,901 @@
+Review_ID,Text,Sentiment
+R0001,"I love this product, excellent quality and fast delivery",positive
+R0002,"Amazing experience, very happy with the purchase overall",positive
+R0003,"Works perfectly, highly recommended overall",positive
+R0004,Good value and great customer support,positive
+R0005,This is wonderful and useful overall,positive
+R0006,"Terrible quality, broke after one day overall",negative
+R0007,"Very disappointed, waste of money",negative
+R0008,Poor service and late delivery overall,negative
+R0009,"I hate this app, it crashes constantly overall",negative
+R0010,Not worth the price at all,negative
+R0011,"The product is okay, nothing special overall",neutral
+R0012,Delivery was as expected overall,neutral
+R0013,It is an average product,neutral
+R0014,The app has some useful and some confusing features overall,neutral
+R0015,Packaging was normal overall,neutral
+R0016,"I love this product, excellent quality and fast delivery",positive
+R0017,"Amazing experience, very happy with the purchase overall",positive
+R0018,"Works perfectly, highly recommended overall",positive
+R0019,Good value and great customer support,positive
+R0020,This is wonderful and useful overall,positive
+R0021,"Terrible quality, broke after one day overall",negative
+R0022,"Very disappointed, waste of money",negative
+R0023,Poor service and late delivery overall,negative
+R0024,"I hate this app, it crashes constantly overall",negative
+R0025,Not worth the price at all,negative
+R0026,"The product is okay, nothing special overall",neutral
+R0027,Delivery was as expected overall,neutral
+R0028,It is an average product,neutral
+R0029,The app has some useful and some confusing features overall,neutral
+R0030,Packaging was normal overall,neutral
+R0031,"I love this product, excellent quality and fast delivery",positive
+R0032,"Amazing experience, very happy with the purchase overall",positive
+R0033,"Works perfectly, highly recommended overall",positive
+R0034,Good value and great customer support,positive
+R0035,This is wonderful and useful overall,positive
+R0036,"Terrible quality, broke after one day overall",negative
+R0037,"Very disappointed, waste of money",negative
+R0038,Poor service and late delivery overall,negative
+R0039,"I hate this app, it crashes constantly overall",negative
+R0040,Not worth the price at all,negative
+R0041,"The product is okay, nothing special overall",neutral
+R0042,Delivery was as expected overall,neutral
+R0043,It is an average product,neutral
+R0044,The app has some useful and some confusing features overall,neutral
+R0045,Packaging was normal overall,neutral
+R0046,"I love this product, excellent quality and fast delivery",positive
+R0047,"Amazing experience, very happy with the purchase overall",positive
+R0048,"Works perfectly, highly recommended overall",positive
+R0049,Good value and great customer support,positive
+R0050,This is wonderful and useful overall,positive
+R0051,"Terrible quality, broke after one day overall",negative
+R0052,"Very disappointed, waste of money",negative
+R0053,Poor service and late delivery overall,negative
+R0054,"I hate this app, it crashes constantly overall",negative
+R0055,Not worth the price at all,negative
+R0056,"The product is okay, nothing special overall",neutral
+R0057,Delivery was as expected overall,neutral
+R0058,It is an average product,neutral
+R0059,The app has some useful and some confusing features overall,neutral
+R0060,Packaging was normal overall,neutral
+R0061,"I love this product, excellent quality and fast delivery",positive
+R0062,"Amazing experience, very happy with the purchase overall",positive
+R0063,"Works perfectly, highly recommended overall",positive
+R0064,Good value and great customer support,positive
+R0065,This is wonderful and useful overall,positive
+R0066,"Terrible quality, broke after one day overall",negative
+R0067,"Very disappointed, waste of money",negative
+R0068,Poor service and late delivery overall,negative
+R0069,"I hate this app, it crashes constantly overall",negative
+R0070,Not worth the price at all,negative
+R0071,"The product is okay, nothing special overall",neutral
+R0072,Delivery was as expected overall,neutral
+R0073,It is an average product,neutral
+R0074,The app has some useful and some confusing features overall,neutral
+R0075,Packaging was normal overall,neutral
+R0076,"I love this product, excellent quality and fast delivery",positive
+R0077,"Amazing experience, very happy with the purchase overall",positive
+R0078,"Works perfectly, highly recommended overall",positive
+R0079,Good value and great customer support,positive
+R0080,This is wonderful and useful overall,positive
+R0081,"Terrible quality, broke after one day overall",negative
+R0082,"Very disappointed, waste of money",negative
+R0083,Poor service and late delivery overall,negative
+R0084,"I hate this app, it crashes constantly overall",negative
+R0085,Not worth the price at all,negative
+R0086,"The product is okay, nothing special overall",neutral
+R0087,Delivery was as expected overall,neutral
+R0088,It is an average product,neutral
+R0089,The app has some useful and some confusing features overall,neutral
+R0090,Packaging was normal overall,neutral
+R0091,"I love this product, excellent quality and fast delivery",positive
+R0092,"Amazing experience, very happy with the purchase overall",positive
+R0093,"Works perfectly, highly recommended overall",positive
+R0094,Good value and great customer support,positive
+R0095,This is wonderful and useful overall,positive
+R0096,"Terrible quality, broke after one day overall",negative
+R0097,"Very disappointed, waste of money",negative
+R0098,Poor service and late delivery overall,negative
+R0099,"I hate this app, it crashes constantly overall",negative
+R0100,Not worth the price at all,negative
+R0101,"The product is okay, nothing special overall",neutral
+R0102,Delivery was as expected overall,neutral
+R0103,It is an average product,neutral
+R0104,The app has some useful and some confusing features overall,neutral
+R0105,Packaging was normal overall,neutral
+R0106,"I love this product, excellent quality and fast delivery",positive
+R0107,"Amazing experience, very happy with the purchase overall",positive
+R0108,"Works perfectly, highly recommended overall",positive
+R0109,Good value and great customer support,positive
+R0110,This is wonderful and useful overall,positive
+R0111,"Terrible quality, broke after one day overall",negative
+R0112,"Very disappointed, waste of money",negative
+R0113,Poor service and late delivery overall,negative
+R0114,"I hate this app, it crashes constantly overall",negative
+R0115,Not worth the price at all,negative
+R0116,"The product is okay, nothing special overall",neutral
+R0117,Delivery was as expected overall,neutral
+R0118,It is an average product,neutral
+R0119,The app has some useful and some confusing features overall,neutral
+R0120,Packaging was normal overall,neutral
+R0121,"I love this product, excellent quality and fast delivery",positive
+R0122,"Amazing experience, very happy with the purchase overall",positive
+R0123,"Works perfectly, highly recommended overall",positive
+R0124,Good value and great customer support,positive
+R0125,This is wonderful and useful overall,positive
+R0126,"Terrible quality, broke after one day overall",negative
+R0127,"Very disappointed, waste of money",negative
+R0128,Poor service and late delivery overall,negative
+R0129,"I hate this app, it crashes constantly overall",negative
+R0130,Not worth the price at all,negative
+R0131,"The product is okay, nothing special overall",neutral
+R0132,Delivery was as expected overall,neutral
+R0133,It is an average product,neutral
+R0134,The app has some useful and some confusing features overall,neutral
+R0135,Packaging was normal overall,neutral
+R0136,"I love this product, excellent quality and fast delivery",positive
+R0137,"Amazing experience, very happy with the purchase overall",positive
+R0138,"Works perfectly, highly recommended overall",positive
+R0139,Good value and great customer support,positive
+R0140,This is wonderful and useful overall,positive
+R0141,"Terrible quality, broke after one day overall",negative
+R0142,"Very disappointed, waste of money",negative
+R0143,Poor service and late delivery overall,negative
+R0144,"I hate this app, it crashes constantly overall",negative
+R0145,Not worth the price at all,negative
+R0146,"The product is okay, nothing special overall",neutral
+R0147,Delivery was as expected overall,neutral
+R0148,It is an average product,neutral
+R0149,The app has some useful and some confusing features overall,neutral
+R0150,Packaging was normal overall,neutral
+R0151,"I love this product, excellent quality and fast delivery",positive
+R0152,"Amazing experience, very happy with the purchase overall",positive
+R0153,"Works perfectly, highly recommended overall",positive
+R0154,Good value and great customer support,positive
+R0155,This is wonderful and useful overall,positive
+R0156,"Terrible quality, broke after one day overall",negative
+R0157,"Very disappointed, waste of money",negative
+R0158,Poor service and late delivery overall,negative
+R0159,"I hate this app, it crashes constantly overall",negative
+R0160,Not worth the price at all,negative
+R0161,"The product is okay, nothing special overall",neutral
+R0162,Delivery was as expected overall,neutral
+R0163,It is an average product,neutral
+R0164,The app has some useful and some confusing features overall,neutral
+R0165,Packaging was normal overall,neutral
+R0166,"I love this product, excellent quality and fast delivery",positive
+R0167,"Amazing experience, very happy with the purchase overall",positive
+R0168,"Works perfectly, highly recommended overall",positive
+R0169,Good value and great customer support,positive
+R0170,This is wonderful and useful overall,positive
+R0171,"Terrible quality, broke after one day overall",negative
+R0172,"Very disappointed, waste of money",negative
+R0173,Poor service and late delivery overall,negative
+R0174,"I hate this app, it crashes constantly overall",negative
+R0175,Not worth the price at all,negative
+R0176,"The product is okay, nothing special overall",neutral
+R0177,Delivery was as expected overall,neutral
+R0178,It is an average product,neutral
+R0179,The app has some useful and some confusing features overall,neutral
+R0180,Packaging was normal overall,neutral
+R0181,"I love this product, excellent quality and fast delivery",positive
+R0182,"Amazing experience, very happy with the purchase overall",positive
+R0183,"Works perfectly, highly recommended overall",positive
+R0184,Good value and great customer support,positive
+R0185,This is wonderful and useful overall,positive
+R0186,"Terrible quality, broke after one day overall",negative
+R0187,"Very disappointed, waste of money",negative
+R0188,Poor service and late delivery overall,negative
+R0189,"I hate this app, it crashes constantly overall",negative
+R0190,Not worth the price at all,negative
+R0191,"The product is okay, nothing special overall",neutral
+R0192,Delivery was as expected overall,neutral
+R0193,It is an average product,neutral
+R0194,The app has some useful and some confusing features overall,neutral
+R0195,Packaging was normal overall,neutral
+R0196,"I love this product, excellent quality and fast delivery",positive
+R0197,"Amazing experience, very happy with the purchase overall",positive
+R0198,"Works perfectly, highly recommended overall",positive
+R0199,Good value and great customer support,positive
+R0200,This is wonderful and useful overall,positive
+R0201,"Terrible quality, broke after one day overall",negative
+R0202,"Very disappointed, waste of money",negative
+R0203,Poor service and late delivery overall,negative
+R0204,"I hate this app, it crashes constantly overall",negative
+R0205,Not worth the price at all,negative
+R0206,"The product is okay, nothing special overall",neutral
+R0207,Delivery was as expected overall,neutral
+R0208,It is an average product,neutral
+R0209,The app has some useful and some confusing features overall,neutral
+R0210,Packaging was normal overall,neutral
+R0211,"I love this product, excellent quality and fast delivery",positive
+R0212,"Amazing experience, very happy with the purchase overall",positive
+R0213,"Works perfectly, highly recommended overall",positive
+R0214,Good value and great customer support,positive
+R0215,This is wonderful and useful overall,positive
+R0216,"Terrible quality, broke after one day overall",negative
+R0217,"Very disappointed, waste of money",negative
+R0218,Poor service and late delivery overall,negative
+R0219,"I hate this app, it crashes constantly overall",negative
+R0220,Not worth the price at all,negative
+R0221,"The product is okay, nothing special overall",neutral
+R0222,Delivery was as expected overall,neutral
+R0223,It is an average product,neutral
+R0224,The app has some useful and some confusing features overall,neutral
+R0225,Packaging was normal overall,neutral
+R0226,"I love this product, excellent quality and fast delivery",positive
+R0227,"Amazing experience, very happy with the purchase overall",positive
+R0228,"Works perfectly, highly recommended overall",positive
+R0229,Good value and great customer support,positive
+R0230,This is wonderful and useful overall,positive
+R0231,"Terrible quality, broke after one day overall",negative
+R0232,"Very disappointed, waste of money",negative
+R0233,Poor service and late delivery overall,negative
+R0234,"I hate this app, it crashes constantly overall",negative
+R0235,Not worth the price at all,negative
+R0236,"The product is okay, nothing special overall",neutral
+R0237,Delivery was as expected overall,neutral
+R0238,It is an average product,neutral
+R0239,The app has some useful and some confusing features overall,neutral
+R0240,Packaging was normal overall,neutral
+R0241,"I love this product, excellent quality and fast delivery",positive
+R0242,"Amazing experience, very happy with the purchase overall",positive
+R0243,"Works perfectly, highly recommended overall",positive
+R0244,Good value and great customer support,positive
+R0245,This is wonderful and useful overall,positive
+R0246,"Terrible quality, broke after one day overall",negative
+R0247,"Very disappointed, waste of money",negative
+R0248,Poor service and late delivery overall,negative
+R0249,"I hate this app, it crashes constantly overall",negative
+R0250,Not worth the price at all,negative
+R0251,"The product is okay, nothing special overall",neutral
+R0252,Delivery was as expected overall,neutral
+R0253,It is an average product,neutral
+R0254,The app has some useful and some confusing features overall,neutral
+R0255,Packaging was normal overall,neutral
+R0256,"I love this product, excellent quality and fast delivery",positive
+R0257,"Amazing experience, very happy with the purchase overall",positive
+R0258,"Works perfectly, highly recommended overall",positive
+R0259,Good value and great customer support,positive
+R0260,This is wonderful and useful overall,positive
+R0261,"Terrible quality, broke after one day overall",negative
+R0262,"Very disappointed, waste of money",negative
+R0263,Poor service and late delivery overall,negative
+R0264,"I hate this app, it crashes constantly overall",negative
+R0265,Not worth the price at all,negative
+R0266,"The product is okay, nothing special overall",neutral
+R0267,Delivery was as expected overall,neutral
+R0268,It is an average product,neutral
+R0269,The app has some useful and some confusing features overall,neutral
+R0270,Packaging was normal overall,neutral
+R0271,"I love this product, excellent quality and fast delivery",positive
+R0272,"Amazing experience, very happy with the purchase overall",positive
+R0273,"Works perfectly, highly recommended overall",positive
+R0274,Good value and great customer support,positive
+R0275,This is wonderful and useful overall,positive
+R0276,"Terrible quality, broke after one day overall",negative
+R0277,"Very disappointed, waste of money",negative
+R0278,Poor service and late delivery overall,negative
+R0279,"I hate this app, it crashes constantly overall",negative
+R0280,Not worth the price at all,negative
+R0281,"The product is okay, nothing special overall",neutral
+R0282,Delivery was as expected overall,neutral
+R0283,It is an average product,neutral
+R0284,The app has some useful and some confusing features overall,neutral
+R0285,Packaging was normal overall,neutral
+R0286,"I love this product, excellent quality and fast delivery",positive
+R0287,"Amazing experience, very happy with the purchase overall",positive
+R0288,"Works perfectly, highly recommended overall",positive
+R0289,Good value and great customer support,positive
+R0290,This is wonderful and useful overall,positive
+R0291,"Terrible quality, broke after one day overall",negative
+R0292,"Very disappointed, waste of money",negative
+R0293,Poor service and late delivery overall,negative
+R0294,"I hate this app, it crashes constantly overall",negative
+R0295,Not worth the price at all,negative
+R0296,"The product is okay, nothing special overall",neutral
+R0297,Delivery was as expected overall,neutral
+R0298,It is an average product,neutral
+R0299,The app has some useful and some confusing features overall,neutral
+R0300,Packaging was normal overall,neutral
+R0301,"I love this product, excellent quality and fast delivery",positive
+R0302,"Amazing experience, very happy with the purchase overall",positive
+R0303,"Works perfectly, highly recommended overall",positive
+R0304,Good value and great customer support,positive
+R0305,This is wonderful and useful overall,positive
+R0306,"Terrible quality, broke after one day overall",negative
+R0307,"Very disappointed, waste of money",negative
+R0308,Poor service and late delivery overall,negative
+R0309,"I hate this app, it crashes constantly overall",negative
+R0310,Not worth the price at all,negative
+R0311,"The product is okay, nothing special overall",neutral
+R0312,Delivery was as expected overall,neutral
+R0313,It is an average product,neutral
+R0314,The app has some useful and some confusing features overall,neutral
+R0315,Packaging was normal overall,neutral
+R0316,"I love this product, excellent quality and fast delivery",positive
+R0317,"Amazing experience, very happy with the purchase overall",positive
+R0318,"Works perfectly, highly recommended overall",positive
+R0319,Good value and great customer support,positive
+R0320,This is wonderful and useful overall,positive
+R0321,"Terrible quality, broke after one day overall",negative
+R0322,"Very disappointed, waste of money",negative
+R0323,Poor service and late delivery overall,negative
+R0324,"I hate this app, it crashes constantly overall",negative
+R0325,Not worth the price at all,negative
+R0326,"The product is okay, nothing special overall",neutral
+R0327,Delivery was as expected overall,neutral
+R0328,It is an average product,neutral
+R0329,The app has some useful and some confusing features overall,neutral
+R0330,Packaging was normal overall,neutral
+R0331,"I love this product, excellent quality and fast delivery",positive
+R0332,"Amazing experience, very happy with the purchase overall",positive
+R0333,"Works perfectly, highly recommended overall",positive
+R0334,Good value and great customer support,positive
+R0335,This is wonderful and useful overall,positive
+R0336,"Terrible quality, broke after one day overall",negative
+R0337,"Very disappointed, waste of money",negative
+R0338,Poor service and late delivery overall,negative
+R0339,"I hate this app, it crashes constantly overall",negative
+R0340,Not worth the price at all,negative
+R0341,"The product is okay, nothing special overall",neutral
+R0342,Delivery was as expected overall,neutral
+R0343,It is an average product,neutral
+R0344,The app has some useful and some confusing features overall,neutral
+R0345,Packaging was normal overall,neutral
+R0346,"I love this product, excellent quality and fast delivery",positive
+R0347,"Amazing experience, very happy with the purchase overall",positive
+R0348,"Works perfectly, highly recommended overall",positive
+R0349,Good value and great customer support,positive
+R0350,This is wonderful and useful overall,positive
+R0351,"Terrible quality, broke after one day overall",negative
+R0352,"Very disappointed, waste of money",negative
+R0353,Poor service and late delivery overall,negative
+R0354,"I hate this app, it crashes constantly overall",negative
+R0355,Not worth the price at all,negative
+R0356,"The product is okay, nothing special overall",neutral
+R0357,Delivery was as expected overall,neutral
+R0358,It is an average product,neutral
+R0359,The app has some useful and some confusing features overall,neutral
+R0360,Packaging was normal overall,neutral
+R0361,"I love this product, excellent quality and fast delivery",positive
+R0362,"Amazing experience, very happy with the purchase overall",positive
+R0363,"Works perfectly, highly recommended overall",positive
+R0364,Good value and great customer support,positive
+R0365,This is wonderful and useful overall,positive
+R0366,"Terrible quality, broke after one day overall",negative
+R0367,"Very disappointed, waste of money",negative
+R0368,Poor service and late delivery overall,negative
+R0369,"I hate this app, it crashes constantly overall",negative
+R0370,Not worth the price at all,negative
+R0371,"The product is okay, nothing special overall",neutral
+R0372,Delivery was as expected overall,neutral
+R0373,It is an average product,neutral
+R0374,The app has some useful and some confusing features overall,neutral
+R0375,Packaging was normal overall,neutral
+R0376,"I love this product, excellent quality and fast delivery",positive
+R0377,"Amazing experience, very happy with the purchase overall",positive
+R0378,"Works perfectly, highly recommended overall",positive
+R0379,Good value and great customer support,positive
+R0380,This is wonderful and useful overall,positive
+R0381,"Terrible quality, broke after one day overall",negative
+R0382,"Very disappointed, waste of money",negative
+R0383,Poor service and late delivery overall,negative
+R0384,"I hate this app, it crashes constantly overall",negative
+R0385,Not worth the price at all,negative
+R0386,"The product is okay, nothing special overall",neutral
+R0387,Delivery was as expected overall,neutral
+R0388,It is an average product,neutral
+R0389,The app has some useful and some confusing features overall,neutral
+R0390,Packaging was normal overall,neutral
+R0391,"I love this product, excellent quality and fast delivery",positive
+R0392,"Amazing experience, very happy with the purchase overall",positive
+R0393,"Works perfectly, highly recommended overall",positive
+R0394,Good value and great customer support,positive
+R0395,This is wonderful and useful overall,positive
+R0396,"Terrible quality, broke after one day overall",negative
+R0397,"Very disappointed, waste of money",negative
+R0398,Poor service and late delivery overall,negative
+R0399,"I hate this app, it crashes constantly overall",negative
+R0400,Not worth the price at all,negative
+R0401,"The product is okay, nothing special overall",neutral
+R0402,Delivery was as expected overall,neutral
+R0403,It is an average product,neutral
+R0404,The app has some useful and some confusing features overall,neutral
+R0405,Packaging was normal overall,neutral
+R0406,"I love this product, excellent quality and fast delivery",positive
+R0407,"Amazing experience, very happy with the purchase overall",positive
+R0408,"Works perfectly, highly recommended overall",positive
+R0409,Good value and great customer support,positive
+R0410,This is wonderful and useful overall,positive
+R0411,"Terrible quality, broke after one day overall",negative
+R0412,"Very disappointed, waste of money",negative
+R0413,Poor service and late delivery overall,negative
+R0414,"I hate this app, it crashes constantly overall",negative
+R0415,Not worth the price at all,negative
+R0416,"The product is okay, nothing special overall",neutral
+R0417,Delivery was as expected overall,neutral
+R0418,It is an average product,neutral
+R0419,The app has some useful and some confusing features overall,neutral
+R0420,Packaging was normal overall,neutral
+R0421,"I love this product, excellent quality and fast delivery",positive
+R0422,"Amazing experience, very happy with the purchase overall",positive
+R0423,"Works perfectly, highly recommended overall",positive
+R0424,Good value and great customer support,positive
+R0425,This is wonderful and useful overall,positive
+R0426,"Terrible quality, broke after one day overall",negative
+R0427,"Very disappointed, waste of money",negative
+R0428,Poor service and late delivery overall,negative
+R0429,"I hate this app, it crashes constantly overall",negative
+R0430,Not worth the price at all,negative
+R0431,"The product is okay, nothing special overall",neutral
+R0432,Delivery was as expected overall,neutral
+R0433,It is an average product,neutral
+R0434,The app has some useful and some confusing features overall,neutral
+R0435,Packaging was normal overall,neutral
+R0436,"I love this product, excellent quality and fast delivery",positive
+R0437,"Amazing experience, very happy with the purchase overall",positive
+R0438,"Works perfectly, highly recommended overall",positive
+R0439,Good value and great customer support,positive
+R0440,This is wonderful and useful overall,positive
+R0441,"Terrible quality, broke after one day overall",negative
+R0442,"Very disappointed, waste of money",negative
+R0443,Poor service and late delivery overall,negative
+R0444,"I hate this app, it crashes constantly overall",negative
+R0445,Not worth the price at all,negative
+R0446,"The product is okay, nothing special overall",neutral
+R0447,Delivery was as expected overall,neutral
+R0448,It is an average product,neutral
+R0449,The app has some useful and some confusing features overall,neutral
+R0450,Packaging was normal overall,neutral
+R0451,"I love this product, excellent quality and fast delivery",positive
+R0452,"Amazing experience, very happy with the purchase overall",positive
+R0453,"Works perfectly, highly recommended overall",positive
+R0454,Good value and great customer support,positive
+R0455,This is wonderful and useful overall,positive
+R0456,"Terrible quality, broke after one day overall",negative
+R0457,"Very disappointed, waste of money",negative
+R0458,Poor service and late delivery overall,negative
+R0459,"I hate this app, it crashes constantly overall",negative
+R0460,Not worth the price at all,negative
+R0461,"The product is okay, nothing special overall",neutral
+R0462,Delivery was as expected overall,neutral
+R0463,It is an average product,neutral
+R0464,The app has some useful and some confusing features overall,neutral
+R0465,Packaging was normal overall,neutral
+R0466,"I love this product, excellent quality and fast delivery",positive
+R0467,"Amazing experience, very happy with the purchase overall",positive
+R0468,"Works perfectly, highly recommended overall",positive
+R0469,Good value and great customer support,positive
+R0470,This is wonderful and useful overall,positive
+R0471,"Terrible quality, broke after one day overall",negative
+R0472,"Very disappointed, waste of money",negative
+R0473,Poor service and late delivery overall,negative
+R0474,"I hate this app, it crashes constantly overall",negative
+R0475,Not worth the price at all,negative
+R0476,"The product is okay, nothing special overall",neutral
+R0477,Delivery was as expected overall,neutral
+R0478,It is an average product,neutral
+R0479,The app has some useful and some confusing features overall,neutral
+R0480,Packaging was normal overall,neutral
+R0481,"I love this product, excellent quality and fast delivery",positive
+R0482,"Amazing experience, very happy with the purchase overall",positive
+R0483,"Works perfectly, highly recommended overall",positive
+R0484,Good value and great customer support,positive
+R0485,This is wonderful and useful overall,positive
+R0486,"Terrible quality, broke after one day overall",negative
+R0487,"Very disappointed, waste of money",negative
+R0488,Poor service and late delivery overall,negative
+R0489,"I hate this app, it crashes constantly overall",negative
+R0490,Not worth the price at all,negative
+R0491,"The product is okay, nothing special overall",neutral
+R0492,Delivery was as expected overall,neutral
+R0493,It is an average product,neutral
+R0494,The app has some useful and some confusing features overall,neutral
+R0495,Packaging was normal overall,neutral
+R0496,"I love this product, excellent quality and fast delivery",positive
+R0497,"Amazing experience, very happy with the purchase overall",positive
+R0498,"Works perfectly, highly recommended overall",positive
+R0499,Good value and great customer support,positive
+R0500,This is wonderful and useful overall,positive
+R0501,"Terrible quality, broke after one day overall",negative
+R0502,"Very disappointed, waste of money",negative
+R0503,Poor service and late delivery overall,negative
+R0504,"I hate this app, it crashes constantly overall",negative
+R0505,Not worth the price at all,negative
+R0506,"The product is okay, nothing special overall",neutral
+R0507,Delivery was as expected overall,neutral
+R0508,It is an average product,neutral
+R0509,The app has some useful and some confusing features overall,neutral
+R0510,Packaging was normal overall,neutral
+R0511,"I love this product, excellent quality and fast delivery",positive
+R0512,"Amazing experience, very happy with the purchase overall",positive
+R0513,"Works perfectly, highly recommended overall",positive
+R0514,Good value and great customer support,positive
+R0515,This is wonderful and useful overall,positive
+R0516,"Terrible quality, broke after one day overall",negative
+R0517,"Very disappointed, waste of money",negative
+R0518,Poor service and late delivery overall,negative
+R0519,"I hate this app, it crashes constantly overall",negative
+R0520,Not worth the price at all,negative
+R0521,"The product is okay, nothing special overall",neutral
+R0522,Delivery was as expected overall,neutral
+R0523,It is an average product,neutral
+R0524,The app has some useful and some confusing features overall,neutral
+R0525,Packaging was normal overall,neutral
+R0526,"I love this product, excellent quality and fast delivery",positive
+R0527,"Amazing experience, very happy with the purchase overall",positive
+R0528,"Works perfectly, highly recommended overall",positive
+R0529,Good value and great customer support,positive
+R0530,This is wonderful and useful overall,positive
+R0531,"Terrible quality, broke after one day overall",negative
+R0532,"Very disappointed, waste of money",negative
+R0533,Poor service and late delivery overall,negative
+R0534,"I hate this app, it crashes constantly overall",negative
+R0535,Not worth the price at all,negative
+R0536,"The product is okay, nothing special overall",neutral
+R0537,Delivery was as expected overall,neutral
+R0538,It is an average product,neutral
+R0539,The app has some useful and some confusing features overall,neutral
+R0540,Packaging was normal overall,neutral
+R0541,"I love this product, excellent quality and fast delivery",positive
+R0542,"Amazing experience, very happy with the purchase overall",positive
+R0543,"Works perfectly, highly recommended overall",positive
+R0544,Good value and great customer support,positive
+R0545,This is wonderful and useful overall,positive
+R0546,"Terrible quality, broke after one day overall",negative
+R0547,"Very disappointed, waste of money",negative
+R0548,Poor service and late delivery overall,negative
+R0549,"I hate this app, it crashes constantly overall",negative
+R0550,Not worth the price at all,negative
+R0551,"The product is okay, nothing special overall",neutral
+R0552,Delivery was as expected overall,neutral
+R0553,It is an average product,neutral
+R0554,The app has some useful and some confusing features overall,neutral
+R0555,Packaging was normal overall,neutral
+R0556,"I love this product, excellent quality and fast delivery",positive
+R0557,"Amazing experience, very happy with the purchase overall",positive
+R0558,"Works perfectly, highly recommended overall",positive
+R0559,Good value and great customer support,positive
+R0560,This is wonderful and useful overall,positive
+R0561,"Terrible quality, broke after one day overall",negative
+R0562,"Very disappointed, waste of money",negative
+R0563,Poor service and late delivery overall,negative
+R0564,"I hate this app, it crashes constantly overall",negative
+R0565,Not worth the price at all,negative
+R0566,"The product is okay, nothing special overall",neutral
+R0567,Delivery was as expected overall,neutral
+R0568,It is an average product,neutral
+R0569,The app has some useful and some confusing features overall,neutral
+R0570,Packaging was normal overall,neutral
+R0571,"I love this product, excellent quality and fast delivery",positive
+R0572,"Amazing experience, very happy with the purchase overall",positive
+R0573,"Works perfectly, highly recommended overall",positive
+R0574,Good value and great customer support,positive
+R0575,This is wonderful and useful overall,positive
+R0576,"Terrible quality, broke after one day overall",negative
+R0577,"Very disappointed, waste of money",negative
+R0578,Poor service and late delivery overall,negative
+R0579,"I hate this app, it crashes constantly overall",negative
+R0580,Not worth the price at all,negative
+R0581,"The product is okay, nothing special overall",neutral
+R0582,Delivery was as expected overall,neutral
+R0583,It is an average product,neutral
+R0584,The app has some useful and some confusing features overall,neutral
+R0585,Packaging was normal overall,neutral
+R0586,"I love this product, excellent quality and fast delivery",positive
+R0587,"Amazing experience, very happy with the purchase overall",positive
+R0588,"Works perfectly, highly recommended overall",positive
+R0589,Good value and great customer support,positive
+R0590,This is wonderful and useful overall,positive
+R0591,"Terrible quality, broke after one day overall",negative
+R0592,"Very disappointed, waste of money",negative
+R0593,Poor service and late delivery overall,negative
+R0594,"I hate this app, it crashes constantly overall",negative
+R0595,Not worth the price at all,negative
+R0596,"The product is okay, nothing special overall",neutral
+R0597,Delivery was as expected overall,neutral
+R0598,It is an average product,neutral
+R0599,The app has some useful and some confusing features overall,neutral
+R0600,Packaging was normal overall,neutral
+R0601,"I love this product, excellent quality and fast delivery",positive
+R0602,"Amazing experience, very happy with the purchase overall",positive
+R0603,"Works perfectly, highly recommended overall",positive
+R0604,Good value and great customer support,positive
+R0605,This is wonderful and useful overall,positive
+R0606,"Terrible quality, broke after one day overall",negative
+R0607,"Very disappointed, waste of money",negative
+R0608,Poor service and late delivery overall,negative
+R0609,"I hate this app, it crashes constantly overall",negative
+R0610,Not worth the price at all,negative
+R0611,"The product is okay, nothing special overall",neutral
+R0612,Delivery was as expected overall,neutral
+R0613,It is an average product,neutral
+R0614,The app has some useful and some confusing features overall,neutral
+R0615,Packaging was normal overall,neutral
+R0616,"I love this product, excellent quality and fast delivery",positive
+R0617,"Amazing experience, very happy with the purchase overall",positive
+R0618,"Works perfectly, highly recommended overall",positive
+R0619,Good value and great customer support,positive
+R0620,This is wonderful and useful overall,positive
+R0621,"Terrible quality, broke after one day overall",negative
+R0622,"Very disappointed, waste of money",negative
+R0623,Poor service and late delivery overall,negative
+R0624,"I hate this app, it crashes constantly overall",negative
+R0625,Not worth the price at all,negative
+R0626,"The product is okay, nothing special overall",neutral
+R0627,Delivery was as expected overall,neutral
+R0628,It is an average product,neutral
+R0629,The app has some useful and some confusing features overall,neutral
+R0630,Packaging was normal overall,neutral
+R0631,"I love this product, excellent quality and fast delivery",positive
+R0632,"Amazing experience, very happy with the purchase overall",positive
+R0633,"Works perfectly, highly recommended overall",positive
+R0634,Good value and great customer support,positive
+R0635,This is wonderful and useful overall,positive
+R0636,"Terrible quality, broke after one day overall",negative
+R0637,"Very disappointed, waste of money",negative
+R0638,Poor service and late delivery overall,negative
+R0639,"I hate this app, it crashes constantly overall",negative
+R0640,Not worth the price at all,negative
+R0641,"The product is okay, nothing special overall",neutral
+R0642,Delivery was as expected overall,neutral
+R0643,It is an average product,neutral
+R0644,The app has some useful and some confusing features overall,neutral
+R0645,Packaging was normal overall,neutral
+R0646,"I love this product, excellent quality and fast delivery",positive
+R0647,"Amazing experience, very happy with the purchase overall",positive
+R0648,"Works perfectly, highly recommended overall",positive
+R0649,Good value and great customer support,positive
+R0650,This is wonderful and useful overall,positive
+R0651,"Terrible quality, broke after one day overall",negative
+R0652,"Very disappointed, waste of money",negative
+R0653,Poor service and late delivery overall,negative
+R0654,"I hate this app, it crashes constantly overall",negative
+R0655,Not worth the price at all,negative
+R0656,"The product is okay, nothing special overall",neutral
+R0657,Delivery was as expected overall,neutral
+R0658,It is an average product,neutral
+R0659,The app has some useful and some confusing features overall,neutral
+R0660,Packaging was normal overall,neutral
+R0661,"I love this product, excellent quality and fast delivery",positive
+R0662,"Amazing experience, very happy with the purchase overall",positive
+R0663,"Works perfectly, highly recommended overall",positive
+R0664,Good value and great customer support,positive
+R0665,This is wonderful and useful overall,positive
+R0666,"Terrible quality, broke after one day overall",negative
+R0667,"Very disappointed, waste of money",negative
+R0668,Poor service and late delivery overall,negative
+R0669,"I hate this app, it crashes constantly overall",negative
+R0670,Not worth the price at all,negative
+R0671,"The product is okay, nothing special overall",neutral
+R0672,Delivery was as expected overall,neutral
+R0673,It is an average product,neutral
+R0674,The app has some useful and some confusing features overall,neutral
+R0675,Packaging was normal overall,neutral
+R0676,"I love this product, excellent quality and fast delivery",positive
+R0677,"Amazing experience, very happy with the purchase overall",positive
+R0678,"Works perfectly, highly recommended overall",positive
+R0679,Good value and great customer support,positive
+R0680,This is wonderful and useful overall,positive
+R0681,"Terrible quality, broke after one day overall",negative
+R0682,"Very disappointed, waste of money",negative
+R0683,Poor service and late delivery overall,negative
+R0684,"I hate this app, it crashes constantly overall",negative
+R0685,Not worth the price at all,negative
+R0686,"The product is okay, nothing special overall",neutral
+R0687,Delivery was as expected overall,neutral
+R0688,It is an average product,neutral
+R0689,The app has some useful and some confusing features overall,neutral
+R0690,Packaging was normal overall,neutral
+R0691,"I love this product, excellent quality and fast delivery",positive
+R0692,"Amazing experience, very happy with the purchase overall",positive
+R0693,"Works perfectly, highly recommended overall",positive
+R0694,Good value and great customer support,positive
+R0695,This is wonderful and useful overall,positive
+R0696,"Terrible quality, broke after one day overall",negative
+R0697,"Very disappointed, waste of money",negative
+R0698,Poor service and late delivery overall,negative
+R0699,"I hate this app, it crashes constantly overall",negative
+R0700,Not worth the price at all,negative
+R0701,"The product is okay, nothing special overall",neutral
+R0702,Delivery was as expected overall,neutral
+R0703,It is an average product,neutral
+R0704,The app has some useful and some confusing features overall,neutral
+R0705,Packaging was normal overall,neutral
+R0706,"I love this product, excellent quality and fast delivery",positive
+R0707,"Amazing experience, very happy with the purchase overall",positive
+R0708,"Works perfectly, highly recommended overall",positive
+R0709,Good value and great customer support,positive
+R0710,This is wonderful and useful overall,positive
+R0711,"Terrible quality, broke after one day overall",negative
+R0712,"Very disappointed, waste of money",negative
+R0713,Poor service and late delivery overall,negative
+R0714,"I hate this app, it crashes constantly overall",negative
+R0715,Not worth the price at all,negative
+R0716,"The product is okay, nothing special overall",neutral
+R0717,Delivery was as expected overall,neutral
+R0718,It is an average product,neutral
+R0719,The app has some useful and some confusing features overall,neutral
+R0720,Packaging was normal overall,neutral
+R0721,"I love this product, excellent quality and fast delivery",positive
+R0722,"Amazing experience, very happy with the purchase overall",positive
+R0723,"Works perfectly, highly recommended overall",positive
+R0724,Good value and great customer support,positive
+R0725,This is wonderful and useful overall,positive
+R0726,"Terrible quality, broke after one day overall",negative
+R0727,"Very disappointed, waste of money",negative
+R0728,Poor service and late delivery overall,negative
+R0729,"I hate this app, it crashes constantly overall",negative
+R0730,Not worth the price at all,negative
+R0731,"The product is okay, nothing special overall",neutral
+R0732,Delivery was as expected overall,neutral
+R0733,It is an average product,neutral
+R0734,The app has some useful and some confusing features overall,neutral
+R0735,Packaging was normal overall,neutral
+R0736,"I love this product, excellent quality and fast delivery",positive
+R0737,"Amazing experience, very happy with the purchase overall",positive
+R0738,"Works perfectly, highly recommended overall",positive
+R0739,Good value and great customer support,positive
+R0740,This is wonderful and useful overall,positive
+R0741,"Terrible quality, broke after one day overall",negative
+R0742,"Very disappointed, waste of money",negative
+R0743,Poor service and late delivery overall,negative
+R0744,"I hate this app, it crashes constantly overall",negative
+R0745,Not worth the price at all,negative
+R0746,"The product is okay, nothing special overall",neutral
+R0747,Delivery was as expected overall,neutral
+R0748,It is an average product,neutral
+R0749,The app has some useful and some confusing features overall,neutral
+R0750,Packaging was normal overall,neutral
+R0751,"I love this product, excellent quality and fast delivery",positive
+R0752,"Amazing experience, very happy with the purchase overall",positive
+R0753,"Works perfectly, highly recommended overall",positive
+R0754,Good value and great customer support,positive
+R0755,This is wonderful and useful overall,positive
+R0756,"Terrible quality, broke after one day overall",negative
+R0757,"Very disappointed, waste of money",negative
+R0758,Poor service and late delivery overall,negative
+R0759,"I hate this app, it crashes constantly overall",negative
+R0760,Not worth the price at all,negative
+R0761,"The product is okay, nothing special overall",neutral
+R0762,Delivery was as expected overall,neutral
+R0763,It is an average product,neutral
+R0764,The app has some useful and some confusing features overall,neutral
+R0765,Packaging was normal overall,neutral
+R0766,"I love this product, excellent quality and fast delivery",positive
+R0767,"Amazing experience, very happy with the purchase overall",positive
+R0768,"Works perfectly, highly recommended overall",positive
+R0769,Good value and great customer support,positive
+R0770,This is wonderful and useful overall,positive
+R0771,"Terrible quality, broke after one day overall",negative
+R0772,"Very disappointed, waste of money",negative
+R0773,Poor service and late delivery overall,negative
+R0774,"I hate this app, it crashes constantly overall",negative
+R0775,Not worth the price at all,negative
+R0776,"The product is okay, nothing special overall",neutral
+R0777,Delivery was as expected overall,neutral
+R0778,It is an average product,neutral
+R0779,The app has some useful and some confusing features overall,neutral
+R0780,Packaging was normal overall,neutral
+R0781,"I love this product, excellent quality and fast delivery",positive
+R0782,"Amazing experience, very happy with the purchase overall",positive
+R0783,"Works perfectly, highly recommended overall",positive
+R0784,Good value and great customer support,positive
+R0785,This is wonderful and useful overall,positive
+R0786,"Terrible quality, broke after one day overall",negative
+R0787,"Very disappointed, waste of money",negative
+R0788,Poor service and late delivery overall,negative
+R0789,"I hate this app, it crashes constantly overall",negative
+R0790,Not worth the price at all,negative
+R0791,"The product is okay, nothing special overall",neutral
+R0792,Delivery was as expected overall,neutral
+R0793,It is an average product,neutral
+R0794,The app has some useful and some confusing features overall,neutral
+R0795,Packaging was normal overall,neutral
+R0796,"I love this product, excellent quality and fast delivery",positive
+R0797,"Amazing experience, very happy with the purchase overall",positive
+R0798,"Works perfectly, highly recommended overall",positive
+R0799,Good value and great customer support,positive
+R0800,This is wonderful and useful overall,positive
+R0801,"Terrible quality, broke after one day overall",negative
+R0802,"Very disappointed, waste of money",negative
+R0803,Poor service and late delivery overall,negative
+R0804,"I hate this app, it crashes constantly overall",negative
+R0805,Not worth the price at all,negative
+R0806,"The product is okay, nothing special overall",neutral
+R0807,Delivery was as expected overall,neutral
+R0808,It is an average product,neutral
+R0809,The app has some useful and some confusing features overall,neutral
+R0810,Packaging was normal overall,neutral
+R0811,"I love this product, excellent quality and fast delivery",positive
+R0812,"Amazing experience, very happy with the purchase overall",positive
+R0813,"Works perfectly, highly recommended overall",positive
+R0814,Good value and great customer support,positive
+R0815,This is wonderful and useful overall,positive
+R0816,"Terrible quality, broke after one day overall",negative
+R0817,"Very disappointed, waste of money",negative
+R0818,Poor service and late delivery overall,negative
+R0819,"I hate this app, it crashes constantly overall",negative
+R0820,Not worth the price at all,negative
+R0821,"The product is okay, nothing special overall",neutral
+R0822,Delivery was as expected overall,neutral
+R0823,It is an average product,neutral
+R0824,The app has some useful and some confusing features overall,neutral
+R0825,Packaging was normal overall,neutral
+R0826,"I love this product, excellent quality and fast delivery",positive
+R0827,"Amazing experience, very happy with the purchase overall",positive
+R0828,"Works perfectly, highly recommended overall",positive
+R0829,Good value and great customer support,positive
+R0830,This is wonderful and useful overall,positive
+R0831,"Terrible quality, broke after one day overall",negative
+R0832,"Very disappointed, waste of money",negative
+R0833,Poor service and late delivery overall,negative
+R0834,"I hate this app, it crashes constantly overall",negative
+R0835,Not worth the price at all,negative
+R0836,"The product is okay, nothing special overall",neutral
+R0837,Delivery was as expected overall,neutral
+R0838,It is an average product,neutral
+R0839,The app has some useful and some confusing features overall,neutral
+R0840,Packaging was normal overall,neutral
+R0841,"I love this product, excellent quality and fast delivery",positive
+R0842,"Amazing experience, very happy with the purchase overall",positive
+R0843,"Works perfectly, highly recommended overall",positive
+R0844,Good value and great customer support,positive
+R0845,This is wonderful and useful overall,positive
+R0846,"Terrible quality, broke after one day overall",negative
+R0847,"Very disappointed, waste of money",negative
+R0848,Poor service and late delivery overall,negative
+R0849,"I hate this app, it crashes constantly overall",negative
+R0850,Not worth the price at all,negative
+R0851,"The product is okay, nothing special overall",neutral
+R0852,Delivery was as expected overall,neutral
+R0853,It is an average product,neutral
+R0854,The app has some useful and some confusing features overall,neutral
+R0855,Packaging was normal overall,neutral
+R0856,"I love this product, excellent quality and fast delivery",positive
+R0857,"Amazing experience, very happy with the purchase overall",positive
+R0858,"Works perfectly, highly recommended overall",positive
+R0859,Good value and great customer support,positive
+R0860,This is wonderful and useful overall,positive
+R0861,"Terrible quality, broke after one day overall",negative
+R0862,"Very disappointed, waste of money",negative
+R0863,Poor service and late delivery overall,negative
+R0864,"I hate this app, it crashes constantly overall",negative
+R0865,Not worth the price at all,negative
+R0866,"The product is okay, nothing special overall",neutral
+R0867,Delivery was as expected overall,neutral
+R0868,It is an average product,neutral
+R0869,The app has some useful and some confusing features overall,neutral
+R0870,Packaging was normal overall,neutral
+R0871,"I love this product, excellent quality and fast delivery",positive
+R0872,"Amazing experience, very happy with the purchase overall",positive
+R0873,"Works perfectly, highly recommended overall",positive
+R0874,Good value and great customer support,positive
+R0875,This is wonderful and useful overall,positive
+R0876,"Terrible quality, broke after one day overall",negative
+R0877,"Very disappointed, waste of money",negative
+R0878,Poor service and late delivery overall,negative
+R0879,"I hate this app, it crashes constantly overall",negative
+R0880,Not worth the price at all,negative
+R0881,"The product is okay, nothing special overall",neutral
+R0882,Delivery was as expected overall,neutral
+R0883,It is an average product,neutral
+R0884,The app has some useful and some confusing features overall,neutral
+R0885,Packaging was normal overall,neutral
+R0886,"I love this product, excellent quality and fast delivery",positive
+R0887,"Amazing experience, very happy with the purchase overall",positive
+R0888,"Works perfectly, highly recommended overall",positive
+R0889,Good value and great customer support,positive
+R0890,This is wonderful and useful overall,positive
+R0891,"Terrible quality, broke after one day overall",negative
+R0892,"Very disappointed, waste of money",negative
+R0893,Poor service and late delivery overall,negative
+R0894,"I hate this app, it crashes constantly overall",negative
+R0895,Not worth the price at all,negative
+R0896,"The product is okay, nothing special overall",neutral
+R0897,Delivery was as expected overall,neutral
+R0898,It is an average product,neutral
+R0899,The app has some useful and some confusing features overall,neutral
+R0900,Packaging was normal overall,neutral
